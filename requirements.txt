@@ -1,0 +1,5 @@
+transformers==4.17.0
+Pillow
+requests
+ImageHash==4.2.1
+cairosvg

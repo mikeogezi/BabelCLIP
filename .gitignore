@@ -1,3 +1,6 @@
 *.class
 babelpic-gold/
 .vscode/
+__pycache__
+log
+pulled_images
