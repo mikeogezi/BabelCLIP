@@ -3,3 +3,4 @@ Pillow
 requests
 ImageHash==4.2.1
 cairosvg
+ftfy

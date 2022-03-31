@@ -2,5 +2,5 @@
 babelpic-gold/
 .vscode/
 __pycache__
-log
+*log
 pulled_images

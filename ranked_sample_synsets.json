@@ -2,7 +2,10 @@
   "bn:00082787v": {
     "images": [
       {
-        "path": "./pulled_images/bn:00082787v/0.jpg"
+        "path": "./pulled_images/bn:00082787v/0.jpg",
+        "lemmas_confidence": 1.0,
+        "gloss_confidence": 1.0,
+        "example_confidence": null
       }
     ],
     "gloss": "Cause to stop",

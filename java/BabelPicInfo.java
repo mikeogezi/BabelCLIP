@@ -1,5 +1,6 @@
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
@@ -53,7 +54,7 @@ public class BabelPicInfo {
             .sorted()
             .collect(Collectors.toList());
         final Map<String, JSONArray> idToPathMap = new HashMap<>();
-        Files.list(imagesDir.toPath()).forEach(pth -> {
+        Files.list(imagesDir.toPath()).sorted().forEach(pth -> {
             String name = pth.getFileName().toString();
             String id = name.split("_")[0];
             if (idToPathMap.containsKey(id)) {

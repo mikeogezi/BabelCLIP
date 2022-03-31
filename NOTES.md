@@ -16,5 +16,14 @@
 - Ended up with only png and jpg
 - Filtered out php and aspx files
 - Convert svgs and pngs to jpgs
+- 98.706% coverage with pngs, jpegs, converted svgs, and converted gifs
+- Compared image embeddings to texts embeddings for:
+    - concatenated lemmas
+    - main gloss
+    - main example
+- Truncated text at the maximum sequence lenght causing us to lose some information
+- Reshaped image
+- TODO: Try cropping and other techniques
 
-- 98.706% coverage with pngs, jpegs, svgs, and gifs
+- BERT-based tokenizer
+- Truncated after 77 tokens
