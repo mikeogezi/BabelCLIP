@@ -1,6 +1,9 @@
 *.class
 babelpic-gold/
+silver_*
 .vscode/
+.ipynb_checkpoints/
 __pycache__
 *log
 pulled_images
+*nohup.out

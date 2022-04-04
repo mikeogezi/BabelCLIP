@@ -45,8 +45,14 @@ import java.nio.file.Path;
 
 public class BabelPicInfo {
     public static void main(String[] args) throws IOException, JSONException {
-        final File imagesDir = new File("../babelpic-gold/images");
-        final File outPath = new File("../gold_synsets.json");
+        if (args.length != 2) {
+            System.out.println("You must provide the input directory and the output file.");
+            System.out.println("java ... BabelPicInfo ../babelpic-gold/images ../gold_synsets.json");
+            return;
+        }
+
+        final File imagesDir = new File(args[0]);
+        final File outPath = new File(args[1]);
         
         final List<String> bnIds = Files.list(imagesDir.toPath())
             .map(pth -> pth.getFileName().toString().split("_")[0])
@@ -66,6 +72,8 @@ public class BabelPicInfo {
         
         final BabelNet bn = BabelNet.getInstance();
         final JSONArray root = new JSONArray();
+        int progress = 0;
+        int total = bnIds.size();
         for (String bnId: bnIds) {
             BabelSynset syn = bn.getSynset(new BabelSynsetID(bnId));
             JSONObject synRoot = new JSONObject();
@@ -105,6 +113,7 @@ public class BabelPicInfo {
                 .collect(Collectors.toList()));
             
             root.put(synRoot);
+            System.out.printf("Progress: %d/%d\r", ++progress, total);
         }
 
         final FileWriter fw = new FileWriter(outPath);
