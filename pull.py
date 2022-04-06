@@ -24,9 +24,10 @@ import sys
 parser = argparse.ArgumentParser()
 parser.add_argument("--sample_size", help="The random sample size to pull images for", type=int, default=10)
 parser.add_argument("--seed", help="The seed for random generators", type=int, default=42)
-parser.add_argument("--input_file", "-i", default='./gold_synsets.json')
-parser.add_argument("--output_dir", "-O", default='./pulled_images')
-parser.add_argument("--output_file", "-o", default='./sample_synsets.json')
+parser.add_argument("--input_file", "-i", default='./synsets/silver_synsets.json')
+parser.add_argument("--output_dir", "-O", default='./silver_pulled_images')
+parser.add_argument("--images_dir", "-I", default='./silver/images')
+parser.add_argument("--output_file", "-o", default='./samples/silver_sample_synsets.json')
 parser.add_argument("--error_log", "-e", default='./{}_log'.format(sys.argv[0].replace('.py', '')))
 parser.add_argument("--ids", default=[], nargs='*')
 args = parser.parse_args()
@@ -71,7 +72,7 @@ def download_images_for_id(id_dat):
   out_dat[id]['gloss'] = id_dat['mainGloss'] if 'mainGloss' in id_dat else None
   out_dat[id]['example'] = id_dat['mainExample'] if 'mainExample' in id_dat else None
   out_dat[id]['lemmas'] = id_dat['lemmas']
-  out_dat[id]['goldImages'] = [join('./babelpic-gold/images', i) for i in id_dat['goldImages']]
+  out_dat[id]['goldImages'] = [join(args.images_dir, i) for i in id_dat['goldImages']]
 
   for idx, i in enumerate(images):
     url = i['url']

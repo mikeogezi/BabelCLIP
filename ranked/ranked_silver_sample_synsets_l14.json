@@ -176,19 +176,19 @@
       "copog_phadraig"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00002755n_0.jpg",
-      "./babelpic-gold/images/bn:00002755n_1.jpg",
-      "./babelpic-gold/images/bn:00002755n_10.jpg",
-      "./babelpic-gold/images/bn:00002755n_11.jpg",
-      "./babelpic-gold/images/bn:00002755n_13.jpg",
-      "./babelpic-gold/images/bn:00002755n_2.jpg",
-      "./babelpic-gold/images/bn:00002755n_3.jpg",
-      "./babelpic-gold/images/bn:00002755n_4.jpg",
-      "./babelpic-gold/images/bn:00002755n_5.jpg",
-      "./babelpic-gold/images/bn:00002755n_6.JPG",
-      "./babelpic-gold/images/bn:00002755n_7.jpg",
-      "./babelpic-gold/images/bn:00002755n_8.jpg",
-      "./babelpic-gold/images/bn:00002755n_9.jpg"
+      "./silver/images/bn:00002755n_0.jpg",
+      "./silver/images/bn:00002755n_1.jpg",
+      "./silver/images/bn:00002755n_10.jpg",
+      "./silver/images/bn:00002755n_11.jpg",
+      "./silver/images/bn:00002755n_13.jpg",
+      "./silver/images/bn:00002755n_2.jpg",
+      "./silver/images/bn:00002755n_3.jpg",
+      "./silver/images/bn:00002755n_4.jpg",
+      "./silver/images/bn:00002755n_5.jpg",
+      "./silver/images/bn:00002755n_6.JPG",
+      "./silver/images/bn:00002755n_7.jpg",
+      "./silver/images/bn:00002755n_8.jpg",
+      "./silver/images/bn:00002755n_9.jpg"
     ]
   },
   "bn:00016043n": {
@@ -1072,19 +1072,19 @@
       "archaeocarex"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00016043n_0.jpg",
-      "./babelpic-gold/images/bn:00016043n_10.jpg",
-      "./babelpic-gold/images/bn:00016043n_11.JPG",
-      "./babelpic-gold/images/bn:00016043n_12.jpg",
-      "./babelpic-gold/images/bn:00016043n_13.jpg",
-      "./babelpic-gold/images/bn:00016043n_14.jpg",
-      "./babelpic-gold/images/bn:00016043n_2.jpg",
-      "./babelpic-gold/images/bn:00016043n_3.jpg",
-      "./babelpic-gold/images/bn:00016043n_4.jpg",
-      "./babelpic-gold/images/bn:00016043n_5.jpeg",
-      "./babelpic-gold/images/bn:00016043n_7.JPG",
-      "./babelpic-gold/images/bn:00016043n_8.jpg",
-      "./babelpic-gold/images/bn:00016043n_9.jpg"
+      "./silver/images/bn:00016043n_0.jpg",
+      "./silver/images/bn:00016043n_10.jpg",
+      "./silver/images/bn:00016043n_11.JPG",
+      "./silver/images/bn:00016043n_12.jpg",
+      "./silver/images/bn:00016043n_13.jpg",
+      "./silver/images/bn:00016043n_14.jpg",
+      "./silver/images/bn:00016043n_2.jpg",
+      "./silver/images/bn:00016043n_3.jpg",
+      "./silver/images/bn:00016043n_4.jpg",
+      "./silver/images/bn:00016043n_5.jpeg",
+      "./silver/images/bn:00016043n_7.JPG",
+      "./silver/images/bn:00016043n_8.jpg",
+      "./silver/images/bn:00016043n_9.jpg"
     ]
   },
   "bn:00035621n": {
@@ -1141,8 +1141,8 @@
       "seborrhea_capitis"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00035621n_0.jpg",
-      "./babelpic-gold/images/bn:00035621n_1.jpg"
+      "./silver/images/bn:00035621n_0.jpg",
+      "./silver/images/bn:00035621n_1.jpg"
     ]
   },
   "bn:00033048n": {
@@ -1727,17 +1727,17 @@
       "laurinaceae"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00033048n_0.jpg",
-      "./babelpic-gold/images/bn:00033048n_1.jpg",
-      "./babelpic-gold/images/bn:00033048n_11.jpg",
-      "./babelpic-gold/images/bn:00033048n_13.jpg",
-      "./babelpic-gold/images/bn:00033048n_14.jpg",
-      "./babelpic-gold/images/bn:00033048n_3.jpg",
-      "./babelpic-gold/images/bn:00033048n_4.jpg",
-      "./babelpic-gold/images/bn:00033048n_5.jpg",
-      "./babelpic-gold/images/bn:00033048n_6.jpg",
-      "./babelpic-gold/images/bn:00033048n_8.JPG",
-      "./babelpic-gold/images/bn:00033048n_9.jpg"
+      "./silver/images/bn:00033048n_0.jpg",
+      "./silver/images/bn:00033048n_1.jpg",
+      "./silver/images/bn:00033048n_11.jpg",
+      "./silver/images/bn:00033048n_13.jpg",
+      "./silver/images/bn:00033048n_14.jpg",
+      "./silver/images/bn:00033048n_3.jpg",
+      "./silver/images/bn:00033048n_4.jpg",
+      "./silver/images/bn:00033048n_5.jpg",
+      "./silver/images/bn:00033048n_6.jpg",
+      "./silver/images/bn:00033048n_8.JPG",
+      "./silver/images/bn:00033048n_9.jpg"
     ]
   },
   "bn:00030981n": {
@@ -1779,9 +1779,9 @@
       "entelechy"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00030981n_0.jpg",
-      "./babelpic-gold/images/bn:00030981n_4.JPG",
-      "./babelpic-gold/images/bn:00030981n_7.jpg"
+      "./silver/images/bn:00030981n_0.jpg",
+      "./silver/images/bn:00030981n_4.JPG",
+      "./silver/images/bn:00030981n_7.jpg"
     ]
   },
   "bn:00019533n": {
@@ -1854,13 +1854,13 @@
       "class_phaeophyceae"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00019533n_1.jpg",
-      "./babelpic-gold/images/bn:00019533n_2.jpg",
-      "./babelpic-gold/images/bn:00019533n_3.jpg",
-      "./babelpic-gold/images/bn:00019533n_4.jpg",
-      "./babelpic-gold/images/bn:00019533n_5.jpg",
-      "./babelpic-gold/images/bn:00019533n_6.jpg",
-      "./babelpic-gold/images/bn:00019533n_7.jpg"
+      "./silver/images/bn:00019533n_1.jpg",
+      "./silver/images/bn:00019533n_2.jpg",
+      "./silver/images/bn:00019533n_3.jpg",
+      "./silver/images/bn:00019533n_4.jpg",
+      "./silver/images/bn:00019533n_5.jpg",
+      "./silver/images/bn:00019533n_6.jpg",
+      "./silver/images/bn:00019533n_7.jpg"
     ]
   },
   "bn:00080193n": {
@@ -1921,7 +1921,7 @@
       "voice-overs"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00080193n_0.jpg"
+      "./silver/images/bn:00080193n_0.jpg"
     ]
   },
   "bn:00014549n": {
@@ -2410,17 +2410,17 @@
       "list_of_genera_in_caesalpinioideae"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00014549n_1.jpg",
-      "./babelpic-gold/images/bn:00014549n_10.jpg",
-      "./babelpic-gold/images/bn:00014549n_11.jpg",
-      "./babelpic-gold/images/bn:00014549n_12.jpg",
-      "./babelpic-gold/images/bn:00014549n_2.jpg",
-      "./babelpic-gold/images/bn:00014549n_3.jpg",
-      "./babelpic-gold/images/bn:00014549n_4.jpg",
-      "./babelpic-gold/images/bn:00014549n_6.jpg",
-      "./babelpic-gold/images/bn:00014549n_7.jpg",
-      "./babelpic-gold/images/bn:00014549n_8.jpg",
-      "./babelpic-gold/images/bn:00014549n_9.jpg"
+      "./silver/images/bn:00014549n_1.jpg",
+      "./silver/images/bn:00014549n_10.jpg",
+      "./silver/images/bn:00014549n_11.jpg",
+      "./silver/images/bn:00014549n_12.jpg",
+      "./silver/images/bn:00014549n_2.jpg",
+      "./silver/images/bn:00014549n_3.jpg",
+      "./silver/images/bn:00014549n_4.jpg",
+      "./silver/images/bn:00014549n_6.jpg",
+      "./silver/images/bn:00014549n_7.jpg",
+      "./silver/images/bn:00014549n_8.jpg",
+      "./silver/images/bn:00014549n_9.jpg"
     ]
   },
   "bn:00011955n": {
@@ -2661,21 +2661,21 @@
       "family_bombycidae"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00011955n_0.jpg",
-      "./babelpic-gold/images/bn:00011955n_1.jpg",
-      "./babelpic-gold/images/bn:00011955n_10.jpg",
-      "./babelpic-gold/images/bn:00011955n_11.jpg",
-      "./babelpic-gold/images/bn:00011955n_12.jpg",
-      "./babelpic-gold/images/bn:00011955n_13.jpg",
-      "./babelpic-gold/images/bn:00011955n_14.jpg",
-      "./babelpic-gold/images/bn:00011955n_2.JPG",
-      "./babelpic-gold/images/bn:00011955n_3.jpg",
-      "./babelpic-gold/images/bn:00011955n_4.jpg",
-      "./babelpic-gold/images/bn:00011955n_5.JPG",
-      "./babelpic-gold/images/bn:00011955n_6.jpg",
-      "./babelpic-gold/images/bn:00011955n_7.jpg",
-      "./babelpic-gold/images/bn:00011955n_8.JPG",
-      "./babelpic-gold/images/bn:00011955n_9.jpg"
+      "./silver/images/bn:00011955n_0.jpg",
+      "./silver/images/bn:00011955n_1.jpg",
+      "./silver/images/bn:00011955n_10.jpg",
+      "./silver/images/bn:00011955n_11.jpg",
+      "./silver/images/bn:00011955n_12.jpg",
+      "./silver/images/bn:00011955n_13.jpg",
+      "./silver/images/bn:00011955n_14.jpg",
+      "./silver/images/bn:00011955n_2.JPG",
+      "./silver/images/bn:00011955n_3.jpg",
+      "./silver/images/bn:00011955n_4.jpg",
+      "./silver/images/bn:00011955n_5.JPG",
+      "./silver/images/bn:00011955n_6.jpg",
+      "./silver/images/bn:00011955n_7.jpg",
+      "./silver/images/bn:00011955n_8.JPG",
+      "./silver/images/bn:00011955n_9.jpg"
     ]
   },
   "bn:00051517n": {
@@ -2827,13 +2827,13 @@
       "infection_due_to_listeria_monocytogenes"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00051517n_1.jpg",
-      "./babelpic-gold/images/bn:00051517n_10.jpg",
-      "./babelpic-gold/images/bn:00051517n_2.jpg",
-      "./babelpic-gold/images/bn:00051517n_4.jpg",
-      "./babelpic-gold/images/bn:00051517n_6.jpg",
-      "./babelpic-gold/images/bn:00051517n_7.jpg",
-      "./babelpic-gold/images/bn:00051517n_9.jpg"
+      "./silver/images/bn:00051517n_1.jpg",
+      "./silver/images/bn:00051517n_10.jpg",
+      "./silver/images/bn:00051517n_2.jpg",
+      "./silver/images/bn:00051517n_4.jpg",
+      "./silver/images/bn:00051517n_6.jpg",
+      "./silver/images/bn:00051517n_7.jpg",
+      "./silver/images/bn:00051517n_9.jpg"
     ]
   },
   "bn:00071715n": {
@@ -2926,7 +2926,7 @@
       "without_wax"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00071715n_0.jpg"
+      "./silver/images/bn:00071715n_0.jpg"
     ]
   },
   "bn:00003703n": {
@@ -2975,8 +2975,8 @@
       "genus_amygdalus"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00003703n_1.JPG",
-      "./babelpic-gold/images/bn:00003703n_3.jpg"
+      "./silver/images/bn:00003703n_1.JPG",
+      "./silver/images/bn:00003703n_3.jpg"
     ]
   },
   "bn:00003333n": {
@@ -3115,7 +3115,7 @@
       "money_damages"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00003333n_3.JPG"
+      "./silver/images/bn:00003333n_3.JPG"
     ]
   },
   "bn:00013187n": {
@@ -3701,21 +3701,21 @@
       "great_britain._parliament._house_of_commons_--_biography"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00013187n_0.jpg",
-      "./babelpic-gold/images/bn:00013187n_1.jpg",
-      "./babelpic-gold/images/bn:00013187n_10.jpg",
-      "./babelpic-gold/images/bn:00013187n_11.jpg",
-      "./babelpic-gold/images/bn:00013187n_12.jpg",
-      "./babelpic-gold/images/bn:00013187n_13.jpg",
-      "./babelpic-gold/images/bn:00013187n_14.jpg",
-      "./babelpic-gold/images/bn:00013187n_2.jpg",
-      "./babelpic-gold/images/bn:00013187n_3.jpg",
-      "./babelpic-gold/images/bn:00013187n_4.jpg",
-      "./babelpic-gold/images/bn:00013187n_5.jpg",
-      "./babelpic-gold/images/bn:00013187n_6.jpg",
-      "./babelpic-gold/images/bn:00013187n_7.jpg",
-      "./babelpic-gold/images/bn:00013187n_8.jpg",
-      "./babelpic-gold/images/bn:00013187n_9.jpg"
+      "./silver/images/bn:00013187n_0.jpg",
+      "./silver/images/bn:00013187n_1.jpg",
+      "./silver/images/bn:00013187n_10.jpg",
+      "./silver/images/bn:00013187n_11.jpg",
+      "./silver/images/bn:00013187n_12.jpg",
+      "./silver/images/bn:00013187n_13.jpg",
+      "./silver/images/bn:00013187n_14.jpg",
+      "./silver/images/bn:00013187n_2.jpg",
+      "./silver/images/bn:00013187n_3.jpg",
+      "./silver/images/bn:00013187n_4.jpg",
+      "./silver/images/bn:00013187n_5.jpg",
+      "./silver/images/bn:00013187n_6.jpg",
+      "./silver/images/bn:00013187n_7.jpg",
+      "./silver/images/bn:00013187n_8.jpg",
+      "./silver/images/bn:00013187n_9.jpg"
     ]
   },
   "bn:00030318n": {
@@ -3827,9 +3827,9 @@
       "elephantitis"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00030318n_0.jpg",
-      "./babelpic-gold/images/bn:00030318n_1.png",
-      "./babelpic-gold/images/bn:00030318n_2.jpg"
+      "./silver/images/bn:00030318n_0.jpg",
+      "./silver/images/bn:00030318n_1.png",
+      "./silver/images/bn:00030318n_2.jpg"
     ]
   },
   "bn:00063843n": {
@@ -3911,11 +3911,11 @@
       "potato_murrain"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00063843n_0.jpg",
-      "./babelpic-gold/images/bn:00063843n_1.jpg",
-      "./babelpic-gold/images/bn:00063843n_3.jpg",
-      "./babelpic-gold/images/bn:00063843n_4.jpg",
-      "./babelpic-gold/images/bn:00063843n_5.jpg"
+      "./silver/images/bn:00063843n_0.jpg",
+      "./silver/images/bn:00063843n_1.jpg",
+      "./silver/images/bn:00063843n_3.jpg",
+      "./silver/images/bn:00063843n_4.jpg",
+      "./silver/images/bn:00063843n_5.jpg"
     ]
   },
   "bn:00031865n": {
@@ -4687,21 +4687,21 @@
       "euphorbias"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00031865n_0.jpg",
-      "./babelpic-gold/images/bn:00031865n_1.jpg",
-      "./babelpic-gold/images/bn:00031865n_10.JPG",
-      "./babelpic-gold/images/bn:00031865n_11.jpg",
-      "./babelpic-gold/images/bn:00031865n_12.jpg",
-      "./babelpic-gold/images/bn:00031865n_13.jpg",
-      "./babelpic-gold/images/bn:00031865n_14.JPG",
-      "./babelpic-gold/images/bn:00031865n_2.jpeg",
-      "./babelpic-gold/images/bn:00031865n_3.jpg",
-      "./babelpic-gold/images/bn:00031865n_4.jpg",
-      "./babelpic-gold/images/bn:00031865n_5.JPG",
-      "./babelpic-gold/images/bn:00031865n_6.jpg",
-      "./babelpic-gold/images/bn:00031865n_7.jpg",
-      "./babelpic-gold/images/bn:00031865n_8.jpg",
-      "./babelpic-gold/images/bn:00031865n_9.jpg"
+      "./silver/images/bn:00031865n_0.jpg",
+      "./silver/images/bn:00031865n_1.jpg",
+      "./silver/images/bn:00031865n_10.JPG",
+      "./silver/images/bn:00031865n_11.jpg",
+      "./silver/images/bn:00031865n_12.jpg",
+      "./silver/images/bn:00031865n_13.jpg",
+      "./silver/images/bn:00031865n_14.JPG",
+      "./silver/images/bn:00031865n_2.jpeg",
+      "./silver/images/bn:00031865n_3.jpg",
+      "./silver/images/bn:00031865n_4.jpg",
+      "./silver/images/bn:00031865n_5.JPG",
+      "./silver/images/bn:00031865n_6.jpg",
+      "./silver/images/bn:00031865n_7.jpg",
+      "./silver/images/bn:00031865n_8.jpg",
+      "./silver/images/bn:00031865n_9.jpg"
     ]
   },
   "bn:00002885n": {
@@ -5804,21 +5804,21 @@
       "hexonychia"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00002885n_0.jpg",
-      "./babelpic-gold/images/bn:00002885n_1.jpg",
-      "./babelpic-gold/images/bn:00002885n_10.JPG",
-      "./babelpic-gold/images/bn:00002885n_11.jpg",
-      "./babelpic-gold/images/bn:00002885n_12.jpg",
-      "./babelpic-gold/images/bn:00002885n_13.jpg",
-      "./babelpic-gold/images/bn:00002885n_14.JPG",
-      "./babelpic-gold/images/bn:00002885n_2.jpg",
-      "./babelpic-gold/images/bn:00002885n_3.jpg",
-      "./babelpic-gold/images/bn:00002885n_4.jpg",
-      "./babelpic-gold/images/bn:00002885n_5.jpg",
-      "./babelpic-gold/images/bn:00002885n_6.jpg",
-      "./babelpic-gold/images/bn:00002885n_7.jpg",
-      "./babelpic-gold/images/bn:00002885n_8.jpg",
-      "./babelpic-gold/images/bn:00002885n_9.jpg"
+      "./silver/images/bn:00002885n_0.jpg",
+      "./silver/images/bn:00002885n_1.jpg",
+      "./silver/images/bn:00002885n_10.JPG",
+      "./silver/images/bn:00002885n_11.jpg",
+      "./silver/images/bn:00002885n_12.jpg",
+      "./silver/images/bn:00002885n_13.jpg",
+      "./silver/images/bn:00002885n_14.JPG",
+      "./silver/images/bn:00002885n_2.jpg",
+      "./silver/images/bn:00002885n_3.jpg",
+      "./silver/images/bn:00002885n_4.jpg",
+      "./silver/images/bn:00002885n_5.jpg",
+      "./silver/images/bn:00002885n_6.jpg",
+      "./silver/images/bn:00002885n_7.jpg",
+      "./silver/images/bn:00002885n_8.jpg",
+      "./silver/images/bn:00002885n_9.jpg"
     ]
   },
   "bn:00027536n": {
@@ -6364,10 +6364,10 @@
       "metaphysical_freedom"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00027536n_11.jpg",
-      "./babelpic-gold/images/bn:00027536n_3.jpg",
-      "./babelpic-gold/images/bn:00027536n_7.jpg",
-      "./babelpic-gold/images/bn:00027536n_8.jpg"
+      "./silver/images/bn:00027536n_11.jpg",
+      "./silver/images/bn:00027536n_3.jpg",
+      "./silver/images/bn:00027536n_7.jpg",
+      "./silver/images/bn:00027536n_8.jpg"
     ]
   },
   "bn:00075182n": {
@@ -7206,18 +7206,18 @@
       "solism"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00075182n_0.jpg",
-      "./babelpic-gold/images/bn:00075182n_1.jpg",
-      "./babelpic-gold/images/bn:00075182n_10.jpg",
-      "./babelpic-gold/images/bn:00075182n_11.JPG",
-      "./babelpic-gold/images/bn:00075182n_13.JPG",
-      "./babelpic-gold/images/bn:00075182n_14.jpg",
-      "./babelpic-gold/images/bn:00075182n_2.jpg",
-      "./babelpic-gold/images/bn:00075182n_4.jpg",
-      "./babelpic-gold/images/bn:00075182n_5.JPG",
-      "./babelpic-gold/images/bn:00075182n_6.jpg",
-      "./babelpic-gold/images/bn:00075182n_8.jpg",
-      "./babelpic-gold/images/bn:00075182n_9.jpg"
+      "./silver/images/bn:00075182n_0.jpg",
+      "./silver/images/bn:00075182n_1.jpg",
+      "./silver/images/bn:00075182n_10.jpg",
+      "./silver/images/bn:00075182n_11.JPG",
+      "./silver/images/bn:00075182n_13.JPG",
+      "./silver/images/bn:00075182n_14.jpg",
+      "./silver/images/bn:00075182n_2.jpg",
+      "./silver/images/bn:00075182n_4.jpg",
+      "./silver/images/bn:00075182n_5.JPG",
+      "./silver/images/bn:00075182n_6.jpg",
+      "./silver/images/bn:00075182n_8.jpg",
+      "./silver/images/bn:00075182n_9.jpg"
     ]
   },
   "bn:00071665n": {
@@ -7643,16 +7643,16 @@
       "siviculture"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00071665n_0.JPG",
-      "./babelpic-gold/images/bn:00071665n_1.JPG",
-      "./babelpic-gold/images/bn:00071665n_11.jpg",
-      "./babelpic-gold/images/bn:00071665n_14.jpg",
-      "./babelpic-gold/images/bn:00071665n_2.jpg",
-      "./babelpic-gold/images/bn:00071665n_3.jpg",
-      "./babelpic-gold/images/bn:00071665n_4.jpg",
-      "./babelpic-gold/images/bn:00071665n_6.jpg",
-      "./babelpic-gold/images/bn:00071665n_8.jpg",
-      "./babelpic-gold/images/bn:00071665n_9.jpg"
+      "./silver/images/bn:00071665n_0.JPG",
+      "./silver/images/bn:00071665n_1.JPG",
+      "./silver/images/bn:00071665n_11.jpg",
+      "./silver/images/bn:00071665n_14.jpg",
+      "./silver/images/bn:00071665n_2.jpg",
+      "./silver/images/bn:00071665n_3.jpg",
+      "./silver/images/bn:00071665n_4.jpg",
+      "./silver/images/bn:00071665n_6.jpg",
+      "./silver/images/bn:00071665n_8.jpg",
+      "./silver/images/bn:00071665n_9.jpg"
     ]
   },
   "bn:00051016n": {
@@ -7911,15 +7911,15 @@
       "communication_of_falsehood"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00051016n_0.jpg",
-      "./babelpic-gold/images/bn:00051016n_1.jpg",
-      "./babelpic-gold/images/bn:00051016n_10.jpg",
-      "./babelpic-gold/images/bn:00051016n_2.jpg",
-      "./babelpic-gold/images/bn:00051016n_4.jpg",
-      "./babelpic-gold/images/bn:00051016n_5.jpg",
-      "./babelpic-gold/images/bn:00051016n_6.tif",
-      "./babelpic-gold/images/bn:00051016n_7.JPG",
-      "./babelpic-gold/images/bn:00051016n_8.jpg"
+      "./silver/images/bn:00051016n_0.jpg",
+      "./silver/images/bn:00051016n_1.jpg",
+      "./silver/images/bn:00051016n_10.jpg",
+      "./silver/images/bn:00051016n_2.jpg",
+      "./silver/images/bn:00051016n_4.jpg",
+      "./silver/images/bn:00051016n_5.jpg",
+      "./silver/images/bn:00051016n_6.tif",
+      "./silver/images/bn:00051016n_7.JPG",
+      "./silver/images/bn:00051016n_8.jpg"
     ]
   },
   "bn:00030610n": {
@@ -8500,16 +8500,16 @@
       "empirical_question"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00030610n_1.jpg",
-      "./babelpic-gold/images/bn:00030610n_11.jpg",
-      "./babelpic-gold/images/bn:00030610n_12.jpg",
-      "./babelpic-gold/images/bn:00030610n_13.jpg",
-      "./babelpic-gold/images/bn:00030610n_2.jpg",
-      "./babelpic-gold/images/bn:00030610n_3.jpg",
-      "./babelpic-gold/images/bn:00030610n_4.jpg",
-      "./babelpic-gold/images/bn:00030610n_6.jpg",
-      "./babelpic-gold/images/bn:00030610n_8.jpg",
-      "./babelpic-gold/images/bn:00030610n_9.jpg"
+      "./silver/images/bn:00030610n_1.jpg",
+      "./silver/images/bn:00030610n_11.jpg",
+      "./silver/images/bn:00030610n_12.jpg",
+      "./silver/images/bn:00030610n_13.jpg",
+      "./silver/images/bn:00030610n_2.jpg",
+      "./silver/images/bn:00030610n_3.jpg",
+      "./silver/images/bn:00030610n_4.jpg",
+      "./silver/images/bn:00030610n_6.jpg",
+      "./silver/images/bn:00030610n_8.jpg",
+      "./silver/images/bn:00030610n_9.jpg"
     ]
   },
   "bn:00055650n": {
@@ -8641,9 +8641,9 @@
       "liquidity_fund"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00055650n_1.jpg",
-      "./babelpic-gold/images/bn:00055650n_2.jpg",
-      "./babelpic-gold/images/bn:00055650n_3.jpg"
+      "./silver/images/bn:00055650n_1.jpg",
+      "./silver/images/bn:00055650n_2.jpg",
+      "./silver/images/bn:00055650n_3.jpg"
     ]
   },
   "bn:00080005n": {
@@ -8722,17 +8722,17 @@
       "villainage"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00080005n_0.jpg",
-      "./babelpic-gold/images/bn:00080005n_1.jpg",
-      "./babelpic-gold/images/bn:00080005n_10.jpg",
-      "./babelpic-gold/images/bn:00080005n_11.jpg",
-      "./babelpic-gold/images/bn:00080005n_12.jpg",
-      "./babelpic-gold/images/bn:00080005n_13.jpg",
-      "./babelpic-gold/images/bn:00080005n_3.jpg",
-      "./babelpic-gold/images/bn:00080005n_4.PNG",
-      "./babelpic-gold/images/bn:00080005n_5.jpg",
-      "./babelpic-gold/images/bn:00080005n_6.jpg",
-      "./babelpic-gold/images/bn:00080005n_7.jpg"
+      "./silver/images/bn:00080005n_0.jpg",
+      "./silver/images/bn:00080005n_1.jpg",
+      "./silver/images/bn:00080005n_10.jpg",
+      "./silver/images/bn:00080005n_11.jpg",
+      "./silver/images/bn:00080005n_12.jpg",
+      "./silver/images/bn:00080005n_13.jpg",
+      "./silver/images/bn:00080005n_3.jpg",
+      "./silver/images/bn:00080005n_4.PNG",
+      "./silver/images/bn:00080005n_5.jpg",
+      "./silver/images/bn:00080005n_6.jpg",
+      "./silver/images/bn:00080005n_7.jpg"
     ]
   },
   "bn:00036084n": {
@@ -8884,19 +8884,19 @@
       "bronnia"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00036084n_0.jpg",
-      "./babelpic-gold/images/bn:00036084n_1.jpg",
-      "./babelpic-gold/images/bn:00036084n_10.jpg",
-      "./babelpic-gold/images/bn:00036084n_11.jpg",
-      "./babelpic-gold/images/bn:00036084n_12.JPG",
-      "./babelpic-gold/images/bn:00036084n_2.jpg",
-      "./babelpic-gold/images/bn:00036084n_3.jpg",
-      "./babelpic-gold/images/bn:00036084n_4.jpg",
-      "./babelpic-gold/images/bn:00036084n_5.jpg",
-      "./babelpic-gold/images/bn:00036084n_6.jpg",
-      "./babelpic-gold/images/bn:00036084n_7.jpg",
-      "./babelpic-gold/images/bn:00036084n_8.jpg",
-      "./babelpic-gold/images/bn:00036084n_9.JPG"
+      "./silver/images/bn:00036084n_0.jpg",
+      "./silver/images/bn:00036084n_1.jpg",
+      "./silver/images/bn:00036084n_10.jpg",
+      "./silver/images/bn:00036084n_11.jpg",
+      "./silver/images/bn:00036084n_12.JPG",
+      "./silver/images/bn:00036084n_2.jpg",
+      "./silver/images/bn:00036084n_3.jpg",
+      "./silver/images/bn:00036084n_4.jpg",
+      "./silver/images/bn:00036084n_5.jpg",
+      "./silver/images/bn:00036084n_6.jpg",
+      "./silver/images/bn:00036084n_7.jpg",
+      "./silver/images/bn:00036084n_8.jpg",
+      "./silver/images/bn:00036084n_9.JPG"
     ]
   },
   "bn:00000521n": {
@@ -8972,9 +8972,9 @@
       "whoreface"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00000521n_0.jpg",
-      "./babelpic-gold/images/bn:00000521n_1.jpg",
-      "./babelpic-gold/images/bn:00000521n_2.JPG"
+      "./silver/images/bn:00000521n_0.jpg",
+      "./silver/images/bn:00000521n_1.jpg",
+      "./silver/images/bn:00000521n_2.JPG"
     ]
   },
   "bn:00022333n": {
@@ -9151,15 +9151,15 @@
       "adhiveshan"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00022333n_0.jpg",
-      "./babelpic-gold/images/bn:00022333n_1.JPG",
-      "./babelpic-gold/images/bn:00022333n_3.jpg",
-      "./babelpic-gold/images/bn:00022333n_4.JPG",
-      "./babelpic-gold/images/bn:00022333n_5.jpg",
-      "./babelpic-gold/images/bn:00022333n_6.jpg",
-      "./babelpic-gold/images/bn:00022333n_7.JPG",
-      "./babelpic-gold/images/bn:00022333n_8.jpg",
-      "./babelpic-gold/images/bn:00022333n_9.jpg"
+      "./silver/images/bn:00022333n_0.jpg",
+      "./silver/images/bn:00022333n_1.JPG",
+      "./silver/images/bn:00022333n_3.jpg",
+      "./silver/images/bn:00022333n_4.JPG",
+      "./silver/images/bn:00022333n_5.jpg",
+      "./silver/images/bn:00022333n_6.jpg",
+      "./silver/images/bn:00022333n_7.JPG",
+      "./silver/images/bn:00022333n_8.jpg",
+      "./silver/images/bn:00022333n_9.jpg"
     ]
   },
   "bn:00051569n": {
@@ -9232,9 +9232,9 @@
       "littermate"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00051569n_0.JPG",
-      "./babelpic-gold/images/bn:00051569n_1.jpg",
-      "./babelpic-gold/images/bn:00051569n_2.jpg"
+      "./silver/images/bn:00051569n_0.JPG",
+      "./silver/images/bn:00051569n_1.jpg",
+      "./silver/images/bn:00051569n_2.jpg"
     ]
   },
   "bn:00039636n": {
@@ -9463,15 +9463,15 @@
       "genus_seismosaurus"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00039636n_0.jpg",
-      "./babelpic-gold/images/bn:00039636n_11.jpg",
-      "./babelpic-gold/images/bn:00039636n_2.jpg",
-      "./babelpic-gold/images/bn:00039636n_3.jpg",
-      "./babelpic-gold/images/bn:00039636n_4.jpg",
-      "./babelpic-gold/images/bn:00039636n_5.jpg",
-      "./babelpic-gold/images/bn:00039636n_7.jpg",
-      "./babelpic-gold/images/bn:00039636n_8.JPG",
-      "./babelpic-gold/images/bn:00039636n_9.JPG"
+      "./silver/images/bn:00039636n_0.jpg",
+      "./silver/images/bn:00039636n_11.jpg",
+      "./silver/images/bn:00039636n_2.jpg",
+      "./silver/images/bn:00039636n_3.jpg",
+      "./silver/images/bn:00039636n_4.jpg",
+      "./silver/images/bn:00039636n_5.jpg",
+      "./silver/images/bn:00039636n_7.jpg",
+      "./silver/images/bn:00039636n_8.JPG",
+      "./silver/images/bn:00039636n_9.JPG"
     ]
   },
   "bn:00036010n": {
@@ -9807,14 +9807,14 @@
       "fortune_tellers"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00036010n_0.jpg",
-      "./babelpic-gold/images/bn:00036010n_11.jpg",
-      "./babelpic-gold/images/bn:00036010n_12.JPG",
-      "./babelpic-gold/images/bn:00036010n_14.jpg",
-      "./babelpic-gold/images/bn:00036010n_2.jpg",
-      "./babelpic-gold/images/bn:00036010n_3.jpg",
-      "./babelpic-gold/images/bn:00036010n_4.jpg",
-      "./babelpic-gold/images/bn:00036010n_7.jpg"
+      "./silver/images/bn:00036010n_0.jpg",
+      "./silver/images/bn:00036010n_11.jpg",
+      "./silver/images/bn:00036010n_12.JPG",
+      "./silver/images/bn:00036010n_14.jpg",
+      "./silver/images/bn:00036010n_2.jpg",
+      "./silver/images/bn:00036010n_3.jpg",
+      "./silver/images/bn:00036010n_4.jpg",
+      "./silver/images/bn:00036010n_7.jpg"
     ]
   },
   "bn:00021818n": {
@@ -9982,11 +9982,11 @@
       "㏿"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00021818n_1.jpg",
-      "./babelpic-gold/images/bn:00021818n_2.jpg",
-      "./babelpic-gold/images/bn:00021818n_3.jpg",
-      "./babelpic-gold/images/bn:00021818n_4.jpg",
-      "./babelpic-gold/images/bn:00021818n_5.jpg"
+      "./silver/images/bn:00021818n_1.jpg",
+      "./silver/images/bn:00021818n_2.jpg",
+      "./silver/images/bn:00021818n_3.jpg",
+      "./silver/images/bn:00021818n_4.jpg",
+      "./silver/images/bn:00021818n_5.jpg"
     ]
   },
   "bn:00029890n": {
@@ -10106,7 +10106,7 @@
       "economy"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00029890n_0.JPG"
+      "./silver/images/bn:00029890n_0.JPG"
     ]
   },
   "bn:00039524n": {
@@ -10199,15 +10199,15 @@
       "snow_pearlwort"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00039524n_0.jpg",
-      "./babelpic-gold/images/bn:00039524n_1.jpg",
-      "./babelpic-gold/images/bn:00039524n_2.jpg",
-      "./babelpic-gold/images/bn:00039524n_3.jpg",
-      "./babelpic-gold/images/bn:00039524n_4.jpg",
-      "./babelpic-gold/images/bn:00039524n_5.jpg",
-      "./babelpic-gold/images/bn:00039524n_6.jpg",
-      "./babelpic-gold/images/bn:00039524n_7.jpg",
-      "./babelpic-gold/images/bn:00039524n_8.jpg"
+      "./silver/images/bn:00039524n_0.jpg",
+      "./silver/images/bn:00039524n_1.jpg",
+      "./silver/images/bn:00039524n_2.jpg",
+      "./silver/images/bn:00039524n_3.jpg",
+      "./silver/images/bn:00039524n_4.jpg",
+      "./silver/images/bn:00039524n_5.jpg",
+      "./silver/images/bn:00039524n_6.jpg",
+      "./silver/images/bn:00039524n_7.jpg",
+      "./silver/images/bn:00039524n_8.jpg"
     ]
   },
   "bn:00014539n": {
@@ -10344,15 +10344,15 @@
       "common_caecilians"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00014539n_0.jpg",
-      "./babelpic-gold/images/bn:00014539n_1.jpg",
-      "./babelpic-gold/images/bn:00014539n_10.png",
-      "./babelpic-gold/images/bn:00014539n_2.jpg",
-      "./babelpic-gold/images/bn:00014539n_4.jpg",
-      "./babelpic-gold/images/bn:00014539n_5.jpg",
-      "./babelpic-gold/images/bn:00014539n_7.jpg",
-      "./babelpic-gold/images/bn:00014539n_8.png",
-      "./babelpic-gold/images/bn:00014539n_9.jpg"
+      "./silver/images/bn:00014539n_0.jpg",
+      "./silver/images/bn:00014539n_1.jpg",
+      "./silver/images/bn:00014539n_10.png",
+      "./silver/images/bn:00014539n_2.jpg",
+      "./silver/images/bn:00014539n_4.jpg",
+      "./silver/images/bn:00014539n_5.jpg",
+      "./silver/images/bn:00014539n_7.jpg",
+      "./silver/images/bn:00014539n_8.png",
+      "./silver/images/bn:00014539n_9.jpg"
     ]
   },
   "bn:00012894n": {
@@ -10533,8 +10533,8 @@
       "medium_head"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00012894n_3.jpg",
-      "./babelpic-gold/images/bn:00012894n_4.png"
+      "./silver/images/bn:00012894n_3.jpg",
+      "./silver/images/bn:00012894n_4.png"
     ]
   },
   "bn:00044386n": {
@@ -10601,7 +10601,7 @@
       "hokan-siouan_language_family"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00044386n_0.png"
+      "./silver/images/bn:00044386n_0.png"
     ]
   },
   "bn:00013642n": {
@@ -10631,8 +10631,8 @@
       "budget_deficit"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00013642n_0.jpeg",
-      "./babelpic-gold/images/bn:00013642n_1.jpg"
+      "./silver/images/bn:00013642n_0.jpeg",
+      "./silver/images/bn:00013642n_1.jpg"
     ]
   },
   "bn:00040415n": {
@@ -10743,7 +10743,7 @@
       "anterior_pituitary_hyperfunction"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00040415n_2.jpg"
+      "./silver/images/bn:00040415n_2.jpg"
     ]
   },
   "bn:00039748n": {
@@ -10839,10 +10839,10 @@
       "prodenia"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00039748n_0.jpg",
-      "./babelpic-gold/images/bn:00039748n_1.jpg",
-      "./babelpic-gold/images/bn:00039748n_2.JPG",
-      "./babelpic-gold/images/bn:00039748n_4.jpg"
+      "./silver/images/bn:00039748n_0.jpg",
+      "./silver/images/bn:00039748n_1.jpg",
+      "./silver/images/bn:00039748n_2.JPG",
+      "./silver/images/bn:00039748n_4.jpg"
     ]
   },
   "bn:00033722n": {
@@ -10903,15 +10903,15 @@
       "fasciolosis"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00033722n_1.jpg",
-      "./babelpic-gold/images/bn:00033722n_2.jpg",
-      "./babelpic-gold/images/bn:00033722n_3.jpg",
-      "./babelpic-gold/images/bn:00033722n_4.jpg",
-      "./babelpic-gold/images/bn:00033722n_5.jpg",
-      "./babelpic-gold/images/bn:00033722n_6.jpg",
-      "./babelpic-gold/images/bn:00033722n_7.jpg",
-      "./babelpic-gold/images/bn:00033722n_8.jpg",
-      "./babelpic-gold/images/bn:00033722n_9.jpg"
+      "./silver/images/bn:00033722n_1.jpg",
+      "./silver/images/bn:00033722n_2.jpg",
+      "./silver/images/bn:00033722n_3.jpg",
+      "./silver/images/bn:00033722n_4.jpg",
+      "./silver/images/bn:00033722n_5.jpg",
+      "./silver/images/bn:00033722n_6.jpg",
+      "./silver/images/bn:00033722n_7.jpg",
+      "./silver/images/bn:00033722n_8.jpg",
+      "./silver/images/bn:00033722n_9.jpg"
     ]
   },
   "bn:00004931n": {
@@ -10967,7 +10967,7 @@
       "apocryphia"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00004931n_0.jpg"
+      "./silver/images/bn:00004931n_0.jpg"
     ]
   },
   "bn:00056999n": {
@@ -12178,14 +12178,14 @@
       "professor_of_natural_science"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00056999n_0.jpg",
-      "./babelpic-gold/images/bn:00056999n_1.png",
-      "./babelpic-gold/images/bn:00056999n_11.jpg",
-      "./babelpic-gold/images/bn:00056999n_12.jpg",
-      "./babelpic-gold/images/bn:00056999n_2.jpg",
-      "./babelpic-gold/images/bn:00056999n_3.jpg",
-      "./babelpic-gold/images/bn:00056999n_4.jpg",
-      "./babelpic-gold/images/bn:00056999n_9.jpg"
+      "./silver/images/bn:00056999n_0.jpg",
+      "./silver/images/bn:00056999n_1.png",
+      "./silver/images/bn:00056999n_11.jpg",
+      "./silver/images/bn:00056999n_12.jpg",
+      "./silver/images/bn:00056999n_2.jpg",
+      "./silver/images/bn:00056999n_3.jpg",
+      "./silver/images/bn:00056999n_4.jpg",
+      "./silver/images/bn:00056999n_9.jpg"
     ]
   },
   "bn:00070031n": {
@@ -12457,16 +12457,16 @@
       "maritime_studies"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00070031n_0.jpg",
-      "./babelpic-gold/images/bn:00070031n_1.jpg",
-      "./babelpic-gold/images/bn:00070031n_10.jpg",
-      "./babelpic-gold/images/bn:00070031n_11.jpg",
-      "./babelpic-gold/images/bn:00070031n_12.jpg",
-      "./babelpic-gold/images/bn:00070031n_2.jpg",
-      "./babelpic-gold/images/bn:00070031n_4.jpg",
-      "./babelpic-gold/images/bn:00070031n_5.jpg",
-      "./babelpic-gold/images/bn:00070031n_7.JPG",
-      "./babelpic-gold/images/bn:00070031n_9.jpg"
+      "./silver/images/bn:00070031n_0.jpg",
+      "./silver/images/bn:00070031n_1.jpg",
+      "./silver/images/bn:00070031n_10.jpg",
+      "./silver/images/bn:00070031n_11.jpg",
+      "./silver/images/bn:00070031n_12.jpg",
+      "./silver/images/bn:00070031n_2.jpg",
+      "./silver/images/bn:00070031n_4.jpg",
+      "./silver/images/bn:00070031n_5.jpg",
+      "./silver/images/bn:00070031n_7.JPG",
+      "./silver/images/bn:00070031n_9.jpg"
     ]
   },
   "bn:00017818n": {
@@ -12533,15 +12533,15 @@
       "charitable_organization"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00017818n_1.jpg",
-      "./babelpic-gold/images/bn:00017818n_10.jpg",
-      "./babelpic-gold/images/bn:00017818n_11.JPG",
-      "./babelpic-gold/images/bn:00017818n_14.jpg",
-      "./babelpic-gold/images/bn:00017818n_2.jpg",
-      "./babelpic-gold/images/bn:00017818n_5.jpg",
-      "./babelpic-gold/images/bn:00017818n_7.jpg",
-      "./babelpic-gold/images/bn:00017818n_8.JPG",
-      "./babelpic-gold/images/bn:00017818n_9.jpg"
+      "./silver/images/bn:00017818n_1.jpg",
+      "./silver/images/bn:00017818n_10.jpg",
+      "./silver/images/bn:00017818n_11.JPG",
+      "./silver/images/bn:00017818n_14.jpg",
+      "./silver/images/bn:00017818n_2.jpg",
+      "./silver/images/bn:00017818n_5.jpg",
+      "./silver/images/bn:00017818n_7.jpg",
+      "./silver/images/bn:00017818n_8.JPG",
+      "./silver/images/bn:00017818n_9.jpg"
     ]
   },
   "bn:00044157n": {
@@ -12560,7 +12560,7 @@
       "himalayish_language"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00044157n_0.jpg"
+      "./silver/images/bn:00044157n_0.jpg"
     ]
   },
   "bn:00010532n": {
@@ -12999,18 +12999,18 @@
       "comparative_biogeography"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00010532n_0.jpg",
-      "./babelpic-gold/images/bn:00010532n_1.jpg",
-      "./babelpic-gold/images/bn:00010532n_10.jpg",
-      "./babelpic-gold/images/bn:00010532n_11.jpg",
-      "./babelpic-gold/images/bn:00010532n_13.jpg",
-      "./babelpic-gold/images/bn:00010532n_14.jpg",
-      "./babelpic-gold/images/bn:00010532n_2.jpg",
-      "./babelpic-gold/images/bn:00010532n_3.png",
-      "./babelpic-gold/images/bn:00010532n_4.jpg",
-      "./babelpic-gold/images/bn:00010532n_6.jpg",
-      "./babelpic-gold/images/bn:00010532n_8.jpg",
-      "./babelpic-gold/images/bn:00010532n_9.jpg"
+      "./silver/images/bn:00010532n_0.jpg",
+      "./silver/images/bn:00010532n_1.jpg",
+      "./silver/images/bn:00010532n_10.jpg",
+      "./silver/images/bn:00010532n_11.jpg",
+      "./silver/images/bn:00010532n_13.jpg",
+      "./silver/images/bn:00010532n_14.jpg",
+      "./silver/images/bn:00010532n_2.jpg",
+      "./silver/images/bn:00010532n_3.png",
+      "./silver/images/bn:00010532n_4.jpg",
+      "./silver/images/bn:00010532n_6.jpg",
+      "./silver/images/bn:00010532n_8.jpg",
+      "./silver/images/bn:00010532n_9.jpg"
     ]
   },
   "bn:00073013n": {
@@ -13090,13 +13090,13 @@
       "south"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00073013n_0.jpg",
-      "./babelpic-gold/images/bn:00073013n_1.jpg",
-      "./babelpic-gold/images/bn:00073013n_10.jpg",
-      "./babelpic-gold/images/bn:00073013n_13.jpg",
-      "./babelpic-gold/images/bn:00073013n_4.JPG",
-      "./babelpic-gold/images/bn:00073013n_5.jpg",
-      "./babelpic-gold/images/bn:00073013n_7.jpg"
+      "./silver/images/bn:00073013n_0.jpg",
+      "./silver/images/bn:00073013n_1.jpg",
+      "./silver/images/bn:00073013n_10.jpg",
+      "./silver/images/bn:00073013n_13.jpg",
+      "./silver/images/bn:00073013n_4.JPG",
+      "./silver/images/bn:00073013n_5.jpg",
+      "./silver/images/bn:00073013n_7.jpg"
     ]
   },
   "bn:00038164n": {
@@ -13237,12 +13237,12 @@
       "helodermatid"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00038164n_12.jpg",
-      "./babelpic-gold/images/bn:00038164n_13.jpg",
-      "./babelpic-gold/images/bn:00038164n_14.jpg",
-      "./babelpic-gold/images/bn:00038164n_2.jpg",
-      "./babelpic-gold/images/bn:00038164n_7.jpg",
-      "./babelpic-gold/images/bn:00038164n_8.jpg"
+      "./silver/images/bn:00038164n_12.jpg",
+      "./silver/images/bn:00038164n_13.jpg",
+      "./silver/images/bn:00038164n_14.jpg",
+      "./silver/images/bn:00038164n_2.jpg",
+      "./silver/images/bn:00038164n_7.jpg",
+      "./silver/images/bn:00038164n_8.jpg"
     ]
   },
   "bn:00040941n": {
@@ -13559,17 +13559,17 @@
       "gold_backed_currency"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00040941n_0.jpg",
-      "./babelpic-gold/images/bn:00040941n_1.jpg",
-      "./babelpic-gold/images/bn:00040941n_10.jpg",
-      "./babelpic-gold/images/bn:00040941n_11.JPG",
-      "./babelpic-gold/images/bn:00040941n_13.JPG",
-      "./babelpic-gold/images/bn:00040941n_14.jpg",
-      "./babelpic-gold/images/bn:00040941n_2.jpg",
-      "./babelpic-gold/images/bn:00040941n_4.jpg",
-      "./babelpic-gold/images/bn:00040941n_6.jpg",
-      "./babelpic-gold/images/bn:00040941n_7.JPG",
-      "./babelpic-gold/images/bn:00040941n_8.jpg"
+      "./silver/images/bn:00040941n_0.jpg",
+      "./silver/images/bn:00040941n_1.jpg",
+      "./silver/images/bn:00040941n_10.jpg",
+      "./silver/images/bn:00040941n_11.JPG",
+      "./silver/images/bn:00040941n_13.JPG",
+      "./silver/images/bn:00040941n_14.jpg",
+      "./silver/images/bn:00040941n_2.jpg",
+      "./silver/images/bn:00040941n_4.jpg",
+      "./silver/images/bn:00040941n_6.jpg",
+      "./silver/images/bn:00040941n_7.JPG",
+      "./silver/images/bn:00040941n_8.jpg"
     ]
   },
   "bn:00078206n": {
@@ -13664,14 +13664,14 @@
       "courts_of_first_instance"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00078206n_0.jpg",
-      "./babelpic-gold/images/bn:00078206n_2.jpg",
-      "./babelpic-gold/images/bn:00078206n_3.jpg",
-      "./babelpic-gold/images/bn:00078206n_4.JPG",
-      "./babelpic-gold/images/bn:00078206n_5.jpg",
-      "./babelpic-gold/images/bn:00078206n_6.jpg",
-      "./babelpic-gold/images/bn:00078206n_7.jpg",
-      "./babelpic-gold/images/bn:00078206n_8.jpg"
+      "./silver/images/bn:00078206n_0.jpg",
+      "./silver/images/bn:00078206n_2.jpg",
+      "./silver/images/bn:00078206n_3.jpg",
+      "./silver/images/bn:00078206n_4.JPG",
+      "./silver/images/bn:00078206n_5.jpg",
+      "./silver/images/bn:00078206n_6.jpg",
+      "./silver/images/bn:00078206n_7.jpg",
+      "./silver/images/bn:00078206n_8.jpg"
     ]
   },
   "bn:00026721n": {
@@ -13823,7 +13823,7 @@
       "device_driver_interface"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00026721n_0.jpg"
+      "./silver/images/bn:00026721n_0.jpg"
     ]
   },
   "bn:00008477n": {
@@ -13905,8 +13905,8 @@
       "ba"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00008477n_0.jpg",
-      "./babelpic-gold/images/bn:00008477n_1.jpg"
+      "./silver/images/bn:00008477n_0.jpg",
+      "./silver/images/bn:00008477n_1.jpg"
     ]
   },
   "bn:00005268n": {
@@ -14811,20 +14811,20 @@
       "nun_ghunna"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00005268n_0.jpg",
-      "./babelpic-gold/images/bn:00005268n_1.jpg",
-      "./babelpic-gold/images/bn:00005268n_10.jpg",
-      "./babelpic-gold/images/bn:00005268n_11.jpg",
-      "./babelpic-gold/images/bn:00005268n_12.JPG",
-      "./babelpic-gold/images/bn:00005268n_13.jpg",
-      "./babelpic-gold/images/bn:00005268n_14.jpg",
-      "./babelpic-gold/images/bn:00005268n_2.png",
-      "./babelpic-gold/images/bn:00005268n_3.jpg",
-      "./babelpic-gold/images/bn:00005268n_4.jpg",
-      "./babelpic-gold/images/bn:00005268n_6.jpg",
-      "./babelpic-gold/images/bn:00005268n_7.jpg",
-      "./babelpic-gold/images/bn:00005268n_8.jpg",
-      "./babelpic-gold/images/bn:00005268n_9.jpg"
+      "./silver/images/bn:00005268n_0.jpg",
+      "./silver/images/bn:00005268n_1.jpg",
+      "./silver/images/bn:00005268n_10.jpg",
+      "./silver/images/bn:00005268n_11.jpg",
+      "./silver/images/bn:00005268n_12.JPG",
+      "./silver/images/bn:00005268n_13.jpg",
+      "./silver/images/bn:00005268n_14.jpg",
+      "./silver/images/bn:00005268n_2.png",
+      "./silver/images/bn:00005268n_3.jpg",
+      "./silver/images/bn:00005268n_4.jpg",
+      "./silver/images/bn:00005268n_6.jpg",
+      "./silver/images/bn:00005268n_7.jpg",
+      "./silver/images/bn:00005268n_8.jpg",
+      "./silver/images/bn:00005268n_9.jpg"
     ]
   },
   "bn:00031482n": {
@@ -15005,16 +15005,16 @@
       "fat_finger"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00031482n_1.jpg",
-      "./babelpic-gold/images/bn:00031482n_10.jpg",
-      "./babelpic-gold/images/bn:00031482n_11.jpg",
-      "./babelpic-gold/images/bn:00031482n_12.jpg",
-      "./babelpic-gold/images/bn:00031482n_13.JPG",
-      "./babelpic-gold/images/bn:00031482n_2.jpg",
-      "./babelpic-gold/images/bn:00031482n_3.jpg",
-      "./babelpic-gold/images/bn:00031482n_5.JPG",
-      "./babelpic-gold/images/bn:00031482n_6.JPG",
-      "./babelpic-gold/images/bn:00031482n_8.jpg"
+      "./silver/images/bn:00031482n_1.jpg",
+      "./silver/images/bn:00031482n_10.jpg",
+      "./silver/images/bn:00031482n_11.jpg",
+      "./silver/images/bn:00031482n_12.jpg",
+      "./silver/images/bn:00031482n_13.JPG",
+      "./silver/images/bn:00031482n_2.jpg",
+      "./silver/images/bn:00031482n_3.jpg",
+      "./silver/images/bn:00031482n_5.JPG",
+      "./silver/images/bn:00031482n_6.JPG",
+      "./silver/images/bn:00031482n_8.jpg"
     ]
   },
   "bn:00038048n": {
@@ -15123,17 +15123,17 @@
       "genus_glareola"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00038048n_0.jpg",
-      "./babelpic-gold/images/bn:00038048n_1.jpg",
-      "./babelpic-gold/images/bn:00038048n_10.jpg",
-      "./babelpic-gold/images/bn:00038048n_2.jpg",
-      "./babelpic-gold/images/bn:00038048n_3.jpg",
-      "./babelpic-gold/images/bn:00038048n_4.jpg",
-      "./babelpic-gold/images/bn:00038048n_5.jpg",
-      "./babelpic-gold/images/bn:00038048n_6.jpg",
-      "./babelpic-gold/images/bn:00038048n_7.JPG",
-      "./babelpic-gold/images/bn:00038048n_8.jpg",
-      "./babelpic-gold/images/bn:00038048n_9.jpg"
+      "./silver/images/bn:00038048n_0.jpg",
+      "./silver/images/bn:00038048n_1.jpg",
+      "./silver/images/bn:00038048n_10.jpg",
+      "./silver/images/bn:00038048n_2.jpg",
+      "./silver/images/bn:00038048n_3.jpg",
+      "./silver/images/bn:00038048n_4.jpg",
+      "./silver/images/bn:00038048n_5.jpg",
+      "./silver/images/bn:00038048n_6.jpg",
+      "./silver/images/bn:00038048n_7.JPG",
+      "./silver/images/bn:00038048n_8.jpg",
+      "./silver/images/bn:00038048n_9.jpg"
     ]
   },
   "bn:00010583n": {
@@ -15828,20 +15828,20 @@
       "regulation_of_biotechnologies"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00010583n_0.jpg",
-      "./babelpic-gold/images/bn:00010583n_1.jpg",
-      "./babelpic-gold/images/bn:00010583n_10.jpg",
-      "./babelpic-gold/images/bn:00010583n_11.jpg",
-      "./babelpic-gold/images/bn:00010583n_12.jpg",
-      "./babelpic-gold/images/bn:00010583n_13.jpg",
-      "./babelpic-gold/images/bn:00010583n_14.jpg",
-      "./babelpic-gold/images/bn:00010583n_2.JPG",
-      "./babelpic-gold/images/bn:00010583n_3.jpg",
-      "./babelpic-gold/images/bn:00010583n_5.jpg",
-      "./babelpic-gold/images/bn:00010583n_6.jpg",
-      "./babelpic-gold/images/bn:00010583n_7.jpg",
-      "./babelpic-gold/images/bn:00010583n_8.jpg",
-      "./babelpic-gold/images/bn:00010583n_9.jpg"
+      "./silver/images/bn:00010583n_0.jpg",
+      "./silver/images/bn:00010583n_1.jpg",
+      "./silver/images/bn:00010583n_10.jpg",
+      "./silver/images/bn:00010583n_11.jpg",
+      "./silver/images/bn:00010583n_12.jpg",
+      "./silver/images/bn:00010583n_13.jpg",
+      "./silver/images/bn:00010583n_14.jpg",
+      "./silver/images/bn:00010583n_2.JPG",
+      "./silver/images/bn:00010583n_3.jpg",
+      "./silver/images/bn:00010583n_5.jpg",
+      "./silver/images/bn:00010583n_6.jpg",
+      "./silver/images/bn:00010583n_7.jpg",
+      "./silver/images/bn:00010583n_8.jpg",
+      "./silver/images/bn:00010583n_9.jpg"
     ]
   },
   "bn:00031888n": {
@@ -17478,21 +17478,21 @@
       "currency_of_the_netherlands"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00031888n_0.jpg",
-      "./babelpic-gold/images/bn:00031888n_1.jpg",
-      "./babelpic-gold/images/bn:00031888n_10.jpg",
-      "./babelpic-gold/images/bn:00031888n_11.jpg",
-      "./babelpic-gold/images/bn:00031888n_12.jpg",
-      "./babelpic-gold/images/bn:00031888n_13.jpg",
-      "./babelpic-gold/images/bn:00031888n_14.jpg",
-      "./babelpic-gold/images/bn:00031888n_2.png",
-      "./babelpic-gold/images/bn:00031888n_3.jpg",
-      "./babelpic-gold/images/bn:00031888n_4.png",
-      "./babelpic-gold/images/bn:00031888n_5.jpg",
-      "./babelpic-gold/images/bn:00031888n_6.jpg",
-      "./babelpic-gold/images/bn:00031888n_7.jpg",
-      "./babelpic-gold/images/bn:00031888n_8.jpg",
-      "./babelpic-gold/images/bn:00031888n_9.jpg"
+      "./silver/images/bn:00031888n_0.jpg",
+      "./silver/images/bn:00031888n_1.jpg",
+      "./silver/images/bn:00031888n_10.jpg",
+      "./silver/images/bn:00031888n_11.jpg",
+      "./silver/images/bn:00031888n_12.jpg",
+      "./silver/images/bn:00031888n_13.jpg",
+      "./silver/images/bn:00031888n_14.jpg",
+      "./silver/images/bn:00031888n_2.png",
+      "./silver/images/bn:00031888n_3.jpg",
+      "./silver/images/bn:00031888n_4.png",
+      "./silver/images/bn:00031888n_5.jpg",
+      "./silver/images/bn:00031888n_6.jpg",
+      "./silver/images/bn:00031888n_7.jpg",
+      "./silver/images/bn:00031888n_8.jpg",
+      "./silver/images/bn:00031888n_9.jpg"
     ]
   },
   "bn:00014446n": {
@@ -17673,20 +17673,20 @@
       "president's_cabinet"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00014446n_0.jpg",
-      "./babelpic-gold/images/bn:00014446n_1.jpg",
-      "./babelpic-gold/images/bn:00014446n_10.jpg",
-      "./babelpic-gold/images/bn:00014446n_11.jpg",
-      "./babelpic-gold/images/bn:00014446n_12.jpg",
-      "./babelpic-gold/images/bn:00014446n_13.jpg",
-      "./babelpic-gold/images/bn:00014446n_2.jpg",
-      "./babelpic-gold/images/bn:00014446n_3.jpg",
-      "./babelpic-gold/images/bn:00014446n_4.jpg",
-      "./babelpic-gold/images/bn:00014446n_5.jpg",
-      "./babelpic-gold/images/bn:00014446n_6.jpg",
-      "./babelpic-gold/images/bn:00014446n_7.jpg",
-      "./babelpic-gold/images/bn:00014446n_8.jpg",
-      "./babelpic-gold/images/bn:00014446n_9.jpg"
+      "./silver/images/bn:00014446n_0.jpg",
+      "./silver/images/bn:00014446n_1.jpg",
+      "./silver/images/bn:00014446n_10.jpg",
+      "./silver/images/bn:00014446n_11.jpg",
+      "./silver/images/bn:00014446n_12.jpg",
+      "./silver/images/bn:00014446n_13.jpg",
+      "./silver/images/bn:00014446n_2.jpg",
+      "./silver/images/bn:00014446n_3.jpg",
+      "./silver/images/bn:00014446n_4.jpg",
+      "./silver/images/bn:00014446n_5.jpg",
+      "./silver/images/bn:00014446n_6.jpg",
+      "./silver/images/bn:00014446n_7.jpg",
+      "./silver/images/bn:00014446n_8.jpg",
+      "./silver/images/bn:00014446n_9.jpg"
     ]
   },
   "bn:00044420n": {
@@ -17943,13 +17943,13 @@
       "sacred_studies"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00044420n_0.JPG",
-      "./babelpic-gold/images/bn:00044420n_11.jpg",
-      "./babelpic-gold/images/bn:00044420n_12.jpg",
-      "./babelpic-gold/images/bn:00044420n_4.jpg",
-      "./babelpic-gold/images/bn:00044420n_5.jpg",
-      "./babelpic-gold/images/bn:00044420n_6.jpg",
-      "./babelpic-gold/images/bn:00044420n_8.JPG"
+      "./silver/images/bn:00044420n_0.JPG",
+      "./silver/images/bn:00044420n_11.jpg",
+      "./silver/images/bn:00044420n_12.jpg",
+      "./silver/images/bn:00044420n_4.jpg",
+      "./silver/images/bn:00044420n_5.jpg",
+      "./silver/images/bn:00044420n_6.jpg",
+      "./silver/images/bn:00044420n_8.JPG"
     ]
   },
   "bn:00036031n": {
@@ -18675,17 +18675,17 @@
       "paleontologic"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00036031n_0.jpg",
-      "./babelpic-gold/images/bn:00036031n_10.jpg",
-      "./babelpic-gold/images/bn:00036031n_11.JPG",
-      "./babelpic-gold/images/bn:00036031n_12.jpg",
-      "./babelpic-gold/images/bn:00036031n_13.jpg",
-      "./babelpic-gold/images/bn:00036031n_2.JPG",
-      "./babelpic-gold/images/bn:00036031n_4.jpg",
-      "./babelpic-gold/images/bn:00036031n_5.jpg",
-      "./babelpic-gold/images/bn:00036031n_6.jpg",
-      "./babelpic-gold/images/bn:00036031n_8.JPG",
-      "./babelpic-gold/images/bn:00036031n_9.JPG"
+      "./silver/images/bn:00036031n_0.jpg",
+      "./silver/images/bn:00036031n_10.jpg",
+      "./silver/images/bn:00036031n_11.JPG",
+      "./silver/images/bn:00036031n_12.jpg",
+      "./silver/images/bn:00036031n_13.jpg",
+      "./silver/images/bn:00036031n_2.JPG",
+      "./silver/images/bn:00036031n_4.jpg",
+      "./silver/images/bn:00036031n_5.jpg",
+      "./silver/images/bn:00036031n_6.jpg",
+      "./silver/images/bn:00036031n_8.JPG",
+      "./silver/images/bn:00036031n_9.JPG"
     ]
   },
   "bn:00056360n": {
@@ -18710,7 +18710,7 @@
       "mur'in"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00056360n_0.jpg"
+      "./silver/images/bn:00056360n_0.jpg"
     ]
   },
   "bn:00041504n": {
@@ -18952,15 +18952,15 @@
       "copperplate_engraver"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00041504n_0.jpg",
-      "./babelpic-gold/images/bn:00041504n_1.jpg",
-      "./babelpic-gold/images/bn:00041504n_10.jpg",
-      "./babelpic-gold/images/bn:00041504n_13.jpg",
-      "./babelpic-gold/images/bn:00041504n_2.jpg",
-      "./babelpic-gold/images/bn:00041504n_5.JPG",
-      "./babelpic-gold/images/bn:00041504n_7.jpg",
-      "./babelpic-gold/images/bn:00041504n_8.jpg",
-      "./babelpic-gold/images/bn:00041504n_9.JPG"
+      "./silver/images/bn:00041504n_0.jpg",
+      "./silver/images/bn:00041504n_1.jpg",
+      "./silver/images/bn:00041504n_10.jpg",
+      "./silver/images/bn:00041504n_13.jpg",
+      "./silver/images/bn:00041504n_2.jpg",
+      "./silver/images/bn:00041504n_5.JPG",
+      "./silver/images/bn:00041504n_7.jpg",
+      "./silver/images/bn:00041504n_8.jpg",
+      "./silver/images/bn:00041504n_9.JPG"
     ]
   },
   "bn:00022819n": {
@@ -19395,11 +19395,11 @@
       "fascist_corporatism"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00022819n_1.jpg",
-      "./babelpic-gold/images/bn:00022819n_10.jpg",
-      "./babelpic-gold/images/bn:00022819n_13.jpg",
-      "./babelpic-gold/images/bn:00022819n_6.jpg",
-      "./babelpic-gold/images/bn:00022819n_9.png"
+      "./silver/images/bn:00022819n_1.jpg",
+      "./silver/images/bn:00022819n_10.jpg",
+      "./silver/images/bn:00022819n_13.jpg",
+      "./silver/images/bn:00022819n_6.jpg",
+      "./silver/images/bn:00022819n_9.png"
     ]
   },
   "bn:00042613n": {
@@ -19582,7 +19582,7 @@
       "reaction_half_life"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00042613n_0.jpg"
+      "./silver/images/bn:00042613n_0.jpg"
     ]
   },
   "bn:00040089n": {
@@ -20312,21 +20312,21 @@
       "grape_plant"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00040089n_0.jpg",
-      "./babelpic-gold/images/bn:00040089n_1.jpg",
-      "./babelpic-gold/images/bn:00040089n_10.jpg",
-      "./babelpic-gold/images/bn:00040089n_11.jpg",
-      "./babelpic-gold/images/bn:00040089n_12.jpg",
-      "./babelpic-gold/images/bn:00040089n_13.JPG",
-      "./babelpic-gold/images/bn:00040089n_14.jpg",
-      "./babelpic-gold/images/bn:00040089n_2.jpg",
-      "./babelpic-gold/images/bn:00040089n_3.jpg",
-      "./babelpic-gold/images/bn:00040089n_4.jpg",
-      "./babelpic-gold/images/bn:00040089n_5.jpg",
-      "./babelpic-gold/images/bn:00040089n_6.JPG",
-      "./babelpic-gold/images/bn:00040089n_7.jpg",
-      "./babelpic-gold/images/bn:00040089n_8.jpg",
-      "./babelpic-gold/images/bn:00040089n_9.jpg"
+      "./silver/images/bn:00040089n_0.jpg",
+      "./silver/images/bn:00040089n_1.jpg",
+      "./silver/images/bn:00040089n_10.jpg",
+      "./silver/images/bn:00040089n_11.jpg",
+      "./silver/images/bn:00040089n_12.jpg",
+      "./silver/images/bn:00040089n_13.JPG",
+      "./silver/images/bn:00040089n_14.jpg",
+      "./silver/images/bn:00040089n_2.jpg",
+      "./silver/images/bn:00040089n_3.jpg",
+      "./silver/images/bn:00040089n_4.jpg",
+      "./silver/images/bn:00040089n_5.jpg",
+      "./silver/images/bn:00040089n_6.JPG",
+      "./silver/images/bn:00040089n_7.jpg",
+      "./silver/images/bn:00040089n_8.jpg",
+      "./silver/images/bn:00040089n_9.jpg"
     ]
   },
   "bn:00029225n": {
@@ -20545,16 +20545,16 @@
       "ophiostoma_novo-ulmi"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00029225n_1.jpg",
-      "./babelpic-gold/images/bn:00029225n_11.jpg",
-      "./babelpic-gold/images/bn:00029225n_13.JPG",
-      "./babelpic-gold/images/bn:00029225n_3.jpg",
-      "./babelpic-gold/images/bn:00029225n_4.jpg",
-      "./babelpic-gold/images/bn:00029225n_5.jpg",
-      "./babelpic-gold/images/bn:00029225n_6.JPG",
-      "./babelpic-gold/images/bn:00029225n_7.JPG",
-      "./babelpic-gold/images/bn:00029225n_8.jpg",
-      "./babelpic-gold/images/bn:00029225n_9.jpg"
+      "./silver/images/bn:00029225n_1.jpg",
+      "./silver/images/bn:00029225n_11.jpg",
+      "./silver/images/bn:00029225n_13.JPG",
+      "./silver/images/bn:00029225n_3.jpg",
+      "./silver/images/bn:00029225n_4.jpg",
+      "./silver/images/bn:00029225n_5.jpg",
+      "./silver/images/bn:00029225n_6.JPG",
+      "./silver/images/bn:00029225n_7.JPG",
+      "./silver/images/bn:00029225n_8.jpg",
+      "./silver/images/bn:00029225n_9.jpg"
     ]
   },
   "bn:00033911n": {
@@ -20644,7 +20644,7 @@
       "freddy_mac"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00033911n_0.jpg"
+      "./silver/images/bn:00033911n_0.jpg"
     ]
   },
   "bn:00008986n": {
@@ -20735,14 +20735,14 @@
       "clutch"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00008986n_0.jpg",
-      "./babelpic-gold/images/bn:00008986n_1.jpg",
-      "./babelpic-gold/images/bn:00008986n_2.jpg",
-      "./babelpic-gold/images/bn:00008986n_3.jpg",
-      "./babelpic-gold/images/bn:00008986n_4.jpg",
-      "./babelpic-gold/images/bn:00008986n_5.JPG",
-      "./babelpic-gold/images/bn:00008986n_6.jpg",
-      "./babelpic-gold/images/bn:00008986n_8.jpg"
+      "./silver/images/bn:00008986n_0.jpg",
+      "./silver/images/bn:00008986n_1.jpg",
+      "./silver/images/bn:00008986n_2.jpg",
+      "./silver/images/bn:00008986n_3.jpg",
+      "./silver/images/bn:00008986n_4.jpg",
+      "./silver/images/bn:00008986n_5.JPG",
+      "./silver/images/bn:00008986n_6.jpg",
+      "./silver/images/bn:00008986n_8.jpg"
     ]
   },
   "bn:00024074n": {
@@ -20860,11 +20860,11 @@
       "english/british_coin_crown"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00024074n_0.jpg",
-      "./babelpic-gold/images/bn:00024074n_1.jpg",
-      "./babelpic-gold/images/bn:00024074n_2.jpg",
-      "./babelpic-gold/images/bn:00024074n_3.JPG",
-      "./babelpic-gold/images/bn:00024074n_4.jpg"
+      "./silver/images/bn:00024074n_0.jpg",
+      "./silver/images/bn:00024074n_1.jpg",
+      "./silver/images/bn:00024074n_2.jpg",
+      "./silver/images/bn:00024074n_3.JPG",
+      "./silver/images/bn:00024074n_4.jpg"
     ]
   },
   "bn:00069576n": {
@@ -20900,7 +20900,7 @@
       "kantian_architectonics"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00069576n_0.jpg"
+      "./silver/images/bn:00069576n_0.jpg"
     ]
   },
   "bn:00033046n": {
@@ -21429,15 +21429,15 @@
       "lappet_moth"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00033046n_1.jpg",
-      "./babelpic-gold/images/bn:00033046n_10.jpg",
-      "./babelpic-gold/images/bn:00033046n_12.JPG",
-      "./babelpic-gold/images/bn:00033046n_14.JPG",
-      "./babelpic-gold/images/bn:00033046n_2.jpg",
-      "./babelpic-gold/images/bn:00033046n_4.jpg",
-      "./babelpic-gold/images/bn:00033046n_6.jpg",
-      "./babelpic-gold/images/bn:00033046n_7.jpg",
-      "./babelpic-gold/images/bn:00033046n_8.jpg"
+      "./silver/images/bn:00033046n_1.jpg",
+      "./silver/images/bn:00033046n_10.jpg",
+      "./silver/images/bn:00033046n_12.JPG",
+      "./silver/images/bn:00033046n_14.JPG",
+      "./silver/images/bn:00033046n_2.jpg",
+      "./silver/images/bn:00033046n_4.jpg",
+      "./silver/images/bn:00033046n_6.jpg",
+      "./silver/images/bn:00033046n_7.jpg",
+      "./silver/images/bn:00033046n_8.jpg"
     ]
   },
   "bn:00022926n": {
@@ -23583,21 +23583,21 @@
       "corvid"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00022926n_0.jpg",
-      "./babelpic-gold/images/bn:00022926n_1.jpg",
-      "./babelpic-gold/images/bn:00022926n_10.jpg",
-      "./babelpic-gold/images/bn:00022926n_11.jpg",
-      "./babelpic-gold/images/bn:00022926n_12.jpg",
-      "./babelpic-gold/images/bn:00022926n_13.jpg",
-      "./babelpic-gold/images/bn:00022926n_14.jpg",
-      "./babelpic-gold/images/bn:00022926n_2.jpg",
-      "./babelpic-gold/images/bn:00022926n_3.jpg",
-      "./babelpic-gold/images/bn:00022926n_4.jpg",
-      "./babelpic-gold/images/bn:00022926n_5.jpg",
-      "./babelpic-gold/images/bn:00022926n_6.jpg",
-      "./babelpic-gold/images/bn:00022926n_7.jpg",
-      "./babelpic-gold/images/bn:00022926n_8.jpg",
-      "./babelpic-gold/images/bn:00022926n_9.jpg"
+      "./silver/images/bn:00022926n_0.jpg",
+      "./silver/images/bn:00022926n_1.jpg",
+      "./silver/images/bn:00022926n_10.jpg",
+      "./silver/images/bn:00022926n_11.jpg",
+      "./silver/images/bn:00022926n_12.jpg",
+      "./silver/images/bn:00022926n_13.jpg",
+      "./silver/images/bn:00022926n_14.jpg",
+      "./silver/images/bn:00022926n_2.jpg",
+      "./silver/images/bn:00022926n_3.jpg",
+      "./silver/images/bn:00022926n_4.jpg",
+      "./silver/images/bn:00022926n_5.jpg",
+      "./silver/images/bn:00022926n_6.jpg",
+      "./silver/images/bn:00022926n_7.jpg",
+      "./silver/images/bn:00022926n_8.jpg",
+      "./silver/images/bn:00022926n_9.jpg"
     ]
   },
   "bn:00057281n": {
@@ -23754,7 +23754,7 @@
       "iso_4217:npr"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00057281n_0.jpg"
+      "./silver/images/bn:00057281n_0.jpg"
     ]
   },
   "bn:00044299n": {
@@ -23879,7 +23879,7 @@
       "mong_njua_language"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00044299n_0.JPG"
+      "./silver/images/bn:00044299n_0.JPG"
     ]
   },
   "bn:00034429n": {
@@ -24105,9 +24105,9 @@
       "concrete_filesystem"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00034429n_0.png",
-      "./babelpic-gold/images/bn:00034429n_1.jpg",
-      "./babelpic-gold/images/bn:00034429n_2.png"
+      "./silver/images/bn:00034429n_0.png",
+      "./silver/images/bn:00034429n_1.jpg",
+      "./silver/images/bn:00034429n_2.png"
     ]
   },
   "bn:00074067n": {
@@ -24129,7 +24129,7 @@
       "status_asthamaticus"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00074067n_0.jpg"
+      "./silver/images/bn:00074067n_0.jpg"
     ]
   },
   "bn:00030481n": {
@@ -24642,21 +24642,21 @@
       "buntings"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00030481n_0.jpg",
-      "./babelpic-gold/images/bn:00030481n_1.jpg",
-      "./babelpic-gold/images/bn:00030481n_10.jpg",
-      "./babelpic-gold/images/bn:00030481n_11.jpg",
-      "./babelpic-gold/images/bn:00030481n_12.jpg",
-      "./babelpic-gold/images/bn:00030481n_13.jpg",
-      "./babelpic-gold/images/bn:00030481n_14.jpg",
-      "./babelpic-gold/images/bn:00030481n_2.jpg",
-      "./babelpic-gold/images/bn:00030481n_3.jpg",
-      "./babelpic-gold/images/bn:00030481n_4.jpg",
-      "./babelpic-gold/images/bn:00030481n_5.jpg",
-      "./babelpic-gold/images/bn:00030481n_6.jpg",
-      "./babelpic-gold/images/bn:00030481n_7.jpg",
-      "./babelpic-gold/images/bn:00030481n_8.jpg",
-      "./babelpic-gold/images/bn:00030481n_9.jpg"
+      "./silver/images/bn:00030481n_0.jpg",
+      "./silver/images/bn:00030481n_1.jpg",
+      "./silver/images/bn:00030481n_10.jpg",
+      "./silver/images/bn:00030481n_11.jpg",
+      "./silver/images/bn:00030481n_12.jpg",
+      "./silver/images/bn:00030481n_13.jpg",
+      "./silver/images/bn:00030481n_14.jpg",
+      "./silver/images/bn:00030481n_2.jpg",
+      "./silver/images/bn:00030481n_3.jpg",
+      "./silver/images/bn:00030481n_4.jpg",
+      "./silver/images/bn:00030481n_5.jpg",
+      "./silver/images/bn:00030481n_6.jpg",
+      "./silver/images/bn:00030481n_7.jpg",
+      "./silver/images/bn:00030481n_8.jpg",
+      "./silver/images/bn:00030481n_9.jpg"
     ]
   },
   "bn:00039110n": {
@@ -24807,20 +24807,20 @@
       "genus_phallus"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00039110n_0.jpg",
-      "./babelpic-gold/images/bn:00039110n_1.jpg",
-      "./babelpic-gold/images/bn:00039110n_10.jpg",
-      "./babelpic-gold/images/bn:00039110n_11.jpg",
-      "./babelpic-gold/images/bn:00039110n_12.jpg",
-      "./babelpic-gold/images/bn:00039110n_13.jpeg",
-      "./babelpic-gold/images/bn:00039110n_14.JPG",
-      "./babelpic-gold/images/bn:00039110n_2.jpg",
-      "./babelpic-gold/images/bn:00039110n_3.jpg",
-      "./babelpic-gold/images/bn:00039110n_5.jpg",
-      "./babelpic-gold/images/bn:00039110n_6.jpg",
-      "./babelpic-gold/images/bn:00039110n_7.jpg",
-      "./babelpic-gold/images/bn:00039110n_8.jpg",
-      "./babelpic-gold/images/bn:00039110n_9.jpg"
+      "./silver/images/bn:00039110n_0.jpg",
+      "./silver/images/bn:00039110n_1.jpg",
+      "./silver/images/bn:00039110n_10.jpg",
+      "./silver/images/bn:00039110n_11.jpg",
+      "./silver/images/bn:00039110n_12.jpg",
+      "./silver/images/bn:00039110n_13.jpeg",
+      "./silver/images/bn:00039110n_14.JPG",
+      "./silver/images/bn:00039110n_2.jpg",
+      "./silver/images/bn:00039110n_3.jpg",
+      "./silver/images/bn:00039110n_5.jpg",
+      "./silver/images/bn:00039110n_6.jpg",
+      "./silver/images/bn:00039110n_7.jpg",
+      "./silver/images/bn:00039110n_8.jpg",
+      "./silver/images/bn:00039110n_9.jpg"
     ]
   },
   "bn:00006529n": {
@@ -24884,7 +24884,7 @@
       "the_court_of_assize"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00006529n_0.JPG"
+      "./silver/images/bn:00006529n_0.JPG"
     ]
   },
   "bn:00031530n": {
@@ -24990,19 +24990,19 @@
       "erytroxylum"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00031530n_0.jpg",
-      "./babelpic-gold/images/bn:00031530n_1.jpg",
-      "./babelpic-gold/images/bn:00031530n_10.jpg",
-      "./babelpic-gold/images/bn:00031530n_11.jpg",
-      "./babelpic-gold/images/bn:00031530n_12.jpg",
-      "./babelpic-gold/images/bn:00031530n_2.jpg",
-      "./babelpic-gold/images/bn:00031530n_3.jpg",
-      "./babelpic-gold/images/bn:00031530n_4.jpg",
-      "./babelpic-gold/images/bn:00031530n_5.jpg",
-      "./babelpic-gold/images/bn:00031530n_6.jpg",
-      "./babelpic-gold/images/bn:00031530n_7.jpg",
-      "./babelpic-gold/images/bn:00031530n_8.jpg",
-      "./babelpic-gold/images/bn:00031530n_9.jpg"
+      "./silver/images/bn:00031530n_0.jpg",
+      "./silver/images/bn:00031530n_1.jpg",
+      "./silver/images/bn:00031530n_10.jpg",
+      "./silver/images/bn:00031530n_11.jpg",
+      "./silver/images/bn:00031530n_12.jpg",
+      "./silver/images/bn:00031530n_2.jpg",
+      "./silver/images/bn:00031530n_3.jpg",
+      "./silver/images/bn:00031530n_4.jpg",
+      "./silver/images/bn:00031530n_5.jpg",
+      "./silver/images/bn:00031530n_6.jpg",
+      "./silver/images/bn:00031530n_7.jpg",
+      "./silver/images/bn:00031530n_8.jpg",
+      "./silver/images/bn:00031530n_9.jpg"
     ]
   },
   "bn:00003727n": {
@@ -25038,7 +25038,7 @@
       "anabiosis"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00003727n_0.JPG"
+      "./silver/images/bn:00003727n_0.JPG"
     ]
   },
   "bn:00038846n": {
@@ -25093,10 +25093,10 @@
       "genus_neurotrichus"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00038846n_0.jpg",
-      "./babelpic-gold/images/bn:00038846n_1.jpeg",
-      "./babelpic-gold/images/bn:00038846n_2.jpg",
-      "./babelpic-gold/images/bn:00038846n_3.jpg"
+      "./silver/images/bn:00038846n_0.jpg",
+      "./silver/images/bn:00038846n_1.jpeg",
+      "./silver/images/bn:00038846n_2.jpg",
+      "./silver/images/bn:00038846n_3.jpg"
     ]
   },
   "bn:00047566n": {
@@ -25128,9 +25128,9 @@
       "irritation"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00047566n_1.JPG",
-      "./babelpic-gold/images/bn:00047566n_2.jpg",
-      "./babelpic-gold/images/bn:00047566n_4.jpg"
+      "./silver/images/bn:00047566n_1.JPG",
+      "./silver/images/bn:00047566n_2.jpg",
+      "./silver/images/bn:00047566n_4.jpg"
     ]
   },
   "bn:00033978n": {
@@ -25270,20 +25270,20 @@
       "asterosperma"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00033978n_0.jpg",
-      "./babelpic-gold/images/bn:00033978n_1.JPG",
-      "./babelpic-gold/images/bn:00033978n_10.jpg",
-      "./babelpic-gold/images/bn:00033978n_11.JPG",
-      "./babelpic-gold/images/bn:00033978n_12.jpg",
-      "./babelpic-gold/images/bn:00033978n_13.jpg",
-      "./babelpic-gold/images/bn:00033978n_2.jpg",
-      "./babelpic-gold/images/bn:00033978n_3.jpg",
-      "./babelpic-gold/images/bn:00033978n_4.jpg",
-      "./babelpic-gold/images/bn:00033978n_5.JPG",
-      "./babelpic-gold/images/bn:00033978n_6.jpg",
-      "./babelpic-gold/images/bn:00033978n_7.jpg",
-      "./babelpic-gold/images/bn:00033978n_8.jpg",
-      "./babelpic-gold/images/bn:00033978n_9.jpg"
+      "./silver/images/bn:00033978n_0.jpg",
+      "./silver/images/bn:00033978n_1.JPG",
+      "./silver/images/bn:00033978n_10.jpg",
+      "./silver/images/bn:00033978n_11.JPG",
+      "./silver/images/bn:00033978n_12.jpg",
+      "./silver/images/bn:00033978n_13.jpg",
+      "./silver/images/bn:00033978n_2.jpg",
+      "./silver/images/bn:00033978n_3.jpg",
+      "./silver/images/bn:00033978n_4.jpg",
+      "./silver/images/bn:00033978n_5.JPG",
+      "./silver/images/bn:00033978n_6.jpg",
+      "./silver/images/bn:00033978n_7.jpg",
+      "./silver/images/bn:00033978n_8.jpg",
+      "./silver/images/bn:00033978n_9.jpg"
     ]
   },
   "bn:00008034n": {
@@ -25699,20 +25699,20 @@
       "balaenid"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00008034n_0.jpg",
-      "./babelpic-gold/images/bn:00008034n_1.jpg",
-      "./babelpic-gold/images/bn:00008034n_10.jpg",
-      "./babelpic-gold/images/bn:00008034n_11.jpg",
-      "./babelpic-gold/images/bn:00008034n_12.jpg",
-      "./babelpic-gold/images/bn:00008034n_13.jpg",
-      "./babelpic-gold/images/bn:00008034n_2.jpg",
-      "./babelpic-gold/images/bn:00008034n_3.jpg",
-      "./babelpic-gold/images/bn:00008034n_4.jpg",
-      "./babelpic-gold/images/bn:00008034n_5.jpg",
-      "./babelpic-gold/images/bn:00008034n_6.jpg",
-      "./babelpic-gold/images/bn:00008034n_7.jpg",
-      "./babelpic-gold/images/bn:00008034n_8.jpg",
-      "./babelpic-gold/images/bn:00008034n_9.JPG"
+      "./silver/images/bn:00008034n_0.jpg",
+      "./silver/images/bn:00008034n_1.jpg",
+      "./silver/images/bn:00008034n_10.jpg",
+      "./silver/images/bn:00008034n_11.jpg",
+      "./silver/images/bn:00008034n_12.jpg",
+      "./silver/images/bn:00008034n_13.jpg",
+      "./silver/images/bn:00008034n_2.jpg",
+      "./silver/images/bn:00008034n_3.jpg",
+      "./silver/images/bn:00008034n_4.jpg",
+      "./silver/images/bn:00008034n_5.jpg",
+      "./silver/images/bn:00008034n_6.jpg",
+      "./silver/images/bn:00008034n_7.jpg",
+      "./silver/images/bn:00008034n_8.jpg",
+      "./silver/images/bn:00008034n_9.JPG"
     ]
   },
   "bn:00029336n": {
@@ -25821,8 +25821,8 @@
       "duchenne/becker"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00029336n_0.jpg",
-      "./babelpic-gold/images/bn:00029336n_1.jpg"
+      "./silver/images/bn:00029336n_0.jpg",
+      "./silver/images/bn:00029336n_1.jpg"
     ]
   },
   "bn:00076244n": {
@@ -26446,18 +26446,18 @@
       "stuffing_and_mounting"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00076244n_0.jpg",
-      "./babelpic-gold/images/bn:00076244n_11.jpg",
-      "./babelpic-gold/images/bn:00076244n_12.jpg",
-      "./babelpic-gold/images/bn:00076244n_14.jpg",
-      "./babelpic-gold/images/bn:00076244n_2.jpg",
-      "./babelpic-gold/images/bn:00076244n_3.jpg",
-      "./babelpic-gold/images/bn:00076244n_4.JPG",
-      "./babelpic-gold/images/bn:00076244n_5.JPG",
-      "./babelpic-gold/images/bn:00076244n_6.JPG",
-      "./babelpic-gold/images/bn:00076244n_7.jpg",
-      "./babelpic-gold/images/bn:00076244n_8.jpg",
-      "./babelpic-gold/images/bn:00076244n_9.jpg"
+      "./silver/images/bn:00076244n_0.jpg",
+      "./silver/images/bn:00076244n_11.jpg",
+      "./silver/images/bn:00076244n_12.jpg",
+      "./silver/images/bn:00076244n_14.jpg",
+      "./silver/images/bn:00076244n_2.jpg",
+      "./silver/images/bn:00076244n_3.jpg",
+      "./silver/images/bn:00076244n_4.JPG",
+      "./silver/images/bn:00076244n_5.JPG",
+      "./silver/images/bn:00076244n_6.JPG",
+      "./silver/images/bn:00076244n_7.jpg",
+      "./silver/images/bn:00076244n_8.jpg",
+      "./silver/images/bn:00076244n_9.jpg"
     ]
   },
   "bn:00038827n": {
@@ -26494,7 +26494,7 @@
       "genus_neohygrophorus"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00038827n_0.jpg"
+      "./silver/images/bn:00038827n_0.jpg"
     ]
   },
   "bn:00029583n": {
@@ -26680,8 +26680,8 @@
       "eccentricity_orbit"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00029583n_0.jpg",
-      "./babelpic-gold/images/bn:00029583n_1.jpg"
+      "./silver/images/bn:00029583n_0.jpg",
+      "./silver/images/bn:00029583n_1.jpg"
     ]
   },
   "bn:00062268n": {
@@ -26729,8 +26729,8 @@
       "picovolt"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00062268n_0.jpg",
-      "./babelpic-gold/images/bn:00062268n_1.jpeg"
+      "./silver/images/bn:00062268n_0.jpg",
+      "./silver/images/bn:00062268n_1.jpeg"
     ]
   },
   "bn:00046705n": {
@@ -27169,15 +27169,15 @@
       "introduction_to_information_theory"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00046705n_10.jpg",
-      "./babelpic-gold/images/bn:00046705n_11.jpg",
-      "./babelpic-gold/images/bn:00046705n_12.jpg",
-      "./babelpic-gold/images/bn:00046705n_13.jpg",
-      "./babelpic-gold/images/bn:00046705n_14.png",
-      "./babelpic-gold/images/bn:00046705n_2.jpg",
-      "./babelpic-gold/images/bn:00046705n_3.jpg",
-      "./babelpic-gold/images/bn:00046705n_5.JPG",
-      "./babelpic-gold/images/bn:00046705n_6.jpg"
+      "./silver/images/bn:00046705n_10.jpg",
+      "./silver/images/bn:00046705n_11.jpg",
+      "./silver/images/bn:00046705n_12.jpg",
+      "./silver/images/bn:00046705n_13.jpg",
+      "./silver/images/bn:00046705n_14.png",
+      "./silver/images/bn:00046705n_2.jpg",
+      "./silver/images/bn:00046705n_3.jpg",
+      "./silver/images/bn:00046705n_5.JPG",
+      "./silver/images/bn:00046705n_6.jpg"
     ]
   },
   "bn:00056952n": {
@@ -27476,20 +27476,20 @@
       "namaste_sada_vatsale"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00056952n_0.jpg",
-      "./babelpic-gold/images/bn:00056952n_1.jpg",
-      "./babelpic-gold/images/bn:00056952n_10.JPG",
-      "./babelpic-gold/images/bn:00056952n_11.JPG",
-      "./babelpic-gold/images/bn:00056952n_12.JPG",
-      "./babelpic-gold/images/bn:00056952n_14.JPG",
-      "./babelpic-gold/images/bn:00056952n_2.jpg",
-      "./babelpic-gold/images/bn:00056952n_3.jpg",
-      "./babelpic-gold/images/bn:00056952n_4.JPG",
-      "./babelpic-gold/images/bn:00056952n_5.JPG",
-      "./babelpic-gold/images/bn:00056952n_6.JPG",
-      "./babelpic-gold/images/bn:00056952n_7.JPG",
-      "./babelpic-gold/images/bn:00056952n_8.JPG",
-      "./babelpic-gold/images/bn:00056952n_9.JPG"
+      "./silver/images/bn:00056952n_0.jpg",
+      "./silver/images/bn:00056952n_1.jpg",
+      "./silver/images/bn:00056952n_10.JPG",
+      "./silver/images/bn:00056952n_11.JPG",
+      "./silver/images/bn:00056952n_12.JPG",
+      "./silver/images/bn:00056952n_14.JPG",
+      "./silver/images/bn:00056952n_2.jpg",
+      "./silver/images/bn:00056952n_3.jpg",
+      "./silver/images/bn:00056952n_4.JPG",
+      "./silver/images/bn:00056952n_5.JPG",
+      "./silver/images/bn:00056952n_6.JPG",
+      "./silver/images/bn:00056952n_7.JPG",
+      "./silver/images/bn:00056952n_8.JPG",
+      "./silver/images/bn:00056952n_9.JPG"
     ]
   },
   "bn:00019939n": {
@@ -27598,18 +27598,18 @@
       "closed_fracture"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00019939n_0.jpg",
-      "./babelpic-gold/images/bn:00019939n_1.jpg",
-      "./babelpic-gold/images/bn:00019939n_10.jpg",
-      "./babelpic-gold/images/bn:00019939n_11.png",
-      "./babelpic-gold/images/bn:00019939n_12.jpg",
-      "./babelpic-gold/images/bn:00019939n_14.png",
-      "./babelpic-gold/images/bn:00019939n_2.JPG",
-      "./babelpic-gold/images/bn:00019939n_3.JPG",
-      "./babelpic-gold/images/bn:00019939n_5.jpg",
-      "./babelpic-gold/images/bn:00019939n_6.jpg",
-      "./babelpic-gold/images/bn:00019939n_7.jpg",
-      "./babelpic-gold/images/bn:00019939n_9.jpg"
+      "./silver/images/bn:00019939n_0.jpg",
+      "./silver/images/bn:00019939n_1.jpg",
+      "./silver/images/bn:00019939n_10.jpg",
+      "./silver/images/bn:00019939n_11.png",
+      "./silver/images/bn:00019939n_12.jpg",
+      "./silver/images/bn:00019939n_14.png",
+      "./silver/images/bn:00019939n_2.JPG",
+      "./silver/images/bn:00019939n_3.JPG",
+      "./silver/images/bn:00019939n_5.jpg",
+      "./silver/images/bn:00019939n_6.jpg",
+      "./silver/images/bn:00019939n_7.jpg",
+      "./silver/images/bn:00019939n_9.jpg"
     ]
   },
   "bn:00033746n": {
@@ -27703,7 +27703,7 @@
       "tzom_gedalya"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00033746n_3.jpg"
+      "./silver/images/bn:00033746n_3.jpg"
     ]
   },
   "bn:00019536n": {
@@ -28067,20 +28067,20 @@
       "armored_fish"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00019536n_0.jpg",
-      "./babelpic-gold/images/bn:00019536n_1.jpg",
-      "./babelpic-gold/images/bn:00019536n_10.jpg",
-      "./babelpic-gold/images/bn:00019536n_11.jpg",
-      "./babelpic-gold/images/bn:00019536n_12.JPG",
-      "./babelpic-gold/images/bn:00019536n_13.png",
-      "./babelpic-gold/images/bn:00019536n_2.JPG",
-      "./babelpic-gold/images/bn:00019536n_3.jpg",
-      "./babelpic-gold/images/bn:00019536n_4.jpg",
-      "./babelpic-gold/images/bn:00019536n_5.jpg",
-      "./babelpic-gold/images/bn:00019536n_6.jpg",
-      "./babelpic-gold/images/bn:00019536n_7.JPG",
-      "./babelpic-gold/images/bn:00019536n_8.jpg",
-      "./babelpic-gold/images/bn:00019536n_9.jpg"
+      "./silver/images/bn:00019536n_0.jpg",
+      "./silver/images/bn:00019536n_1.jpg",
+      "./silver/images/bn:00019536n_10.jpg",
+      "./silver/images/bn:00019536n_11.jpg",
+      "./silver/images/bn:00019536n_12.JPG",
+      "./silver/images/bn:00019536n_13.png",
+      "./silver/images/bn:00019536n_2.JPG",
+      "./silver/images/bn:00019536n_3.jpg",
+      "./silver/images/bn:00019536n_4.jpg",
+      "./silver/images/bn:00019536n_5.jpg",
+      "./silver/images/bn:00019536n_6.jpg",
+      "./silver/images/bn:00019536n_7.JPG",
+      "./silver/images/bn:00019536n_8.jpg",
+      "./silver/images/bn:00019536n_9.jpg"
     ]
   },
   "bn:00033089n": {
@@ -28167,12 +28167,12 @@
       "bachilis_multisetosa"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00033089n_0.jpg",
-      "./babelpic-gold/images/bn:00033089n_1.jpg",
-      "./babelpic-gold/images/bn:00033089n_2.jpg",
-      "./babelpic-gold/images/bn:00033089n_3.jpg",
-      "./babelpic-gold/images/bn:00033089n_5.jpg",
-      "./babelpic-gold/images/bn:00033089n_6.jpg"
+      "./silver/images/bn:00033089n_0.jpg",
+      "./silver/images/bn:00033089n_1.jpg",
+      "./silver/images/bn:00033089n_2.jpg",
+      "./silver/images/bn:00033089n_3.jpg",
+      "./silver/images/bn:00033089n_5.jpg",
+      "./silver/images/bn:00033089n_6.jpg"
     ]
   },
   "bn:00075215n": {
@@ -28786,16 +28786,16 @@
       "sunnist"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00075215n_0.jpg",
-      "./babelpic-gold/images/bn:00075215n_11.jpg",
-      "./babelpic-gold/images/bn:00075215n_13.jpg",
-      "./babelpic-gold/images/bn:00075215n_14.jpg",
-      "./babelpic-gold/images/bn:00075215n_2.JPG",
-      "./babelpic-gold/images/bn:00075215n_3.jpg",
-      "./babelpic-gold/images/bn:00075215n_4.JPG",
-      "./babelpic-gold/images/bn:00075215n_6.jpg",
-      "./babelpic-gold/images/bn:00075215n_7.jpg",
-      "./babelpic-gold/images/bn:00075215n_9.jpg"
+      "./silver/images/bn:00075215n_0.jpg",
+      "./silver/images/bn:00075215n_11.jpg",
+      "./silver/images/bn:00075215n_13.jpg",
+      "./silver/images/bn:00075215n_14.jpg",
+      "./silver/images/bn:00075215n_2.JPG",
+      "./silver/images/bn:00075215n_3.jpg",
+      "./silver/images/bn:00075215n_4.JPG",
+      "./silver/images/bn:00075215n_6.jpg",
+      "./silver/images/bn:00075215n_7.jpg",
+      "./silver/images/bn:00075215n_9.jpg"
     ]
   },
   "bn:00070444n": {
@@ -29026,14 +29026,14 @@
       "childhood_neoplasm_of_the_testis"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00070444n_0.jpg",
-      "./babelpic-gold/images/bn:00070444n_1.jpg",
-      "./babelpic-gold/images/bn:00070444n_2.jpg",
-      "./babelpic-gold/images/bn:00070444n_3.jpg",
-      "./babelpic-gold/images/bn:00070444n_4.jpg",
-      "./babelpic-gold/images/bn:00070444n_6.jpg",
-      "./babelpic-gold/images/bn:00070444n_7.jpg",
-      "./babelpic-gold/images/bn:00070444n_8.jpg"
+      "./silver/images/bn:00070444n_0.jpg",
+      "./silver/images/bn:00070444n_1.jpg",
+      "./silver/images/bn:00070444n_2.jpg",
+      "./silver/images/bn:00070444n_3.jpg",
+      "./silver/images/bn:00070444n_4.jpg",
+      "./silver/images/bn:00070444n_6.jpg",
+      "./silver/images/bn:00070444n_7.jpg",
+      "./silver/images/bn:00070444n_8.jpg"
     ]
   },
   "bn:00033570n": {
@@ -29772,20 +29772,20 @@
       "viper_venoms"
     ],
     "goldImages": [
-      "./babelpic-gold/images/bn:00033570n_1.jpg",
-      "./babelpic-gold/images/bn:00033570n_10.jpg",
-      "./babelpic-gold/images/bn:00033570n_11.jpg",
-      "./babelpic-gold/images/bn:00033570n_12.jpg",
-      "./babelpic-gold/images/bn:00033570n_13.jpg",
-      "./babelpic-gold/images/bn:00033570n_14.jpg",
-      "./babelpic-gold/images/bn:00033570n_2.jpg",
-      "./babelpic-gold/images/bn:00033570n_3.jpg",
-      "./babelpic-gold/images/bn:00033570n_4.jpg",
-      "./babelpic-gold/images/bn:00033570n_5.jpg",
-      "./babelpic-gold/images/bn:00033570n_6.jpg",
-      "./babelpic-gold/images/bn:00033570n_7.jpg",
-      "./babelpic-gold/images/bn:00033570n_8.jpg",
-      "./babelpic-gold/images/bn:00033570n_9.JPG"
+      "./silver/images/bn:00033570n_1.jpg",
+      "./silver/images/bn:00033570n_10.jpg",
+      "./silver/images/bn:00033570n_11.jpg",
+      "./silver/images/bn:00033570n_12.jpg",
+      "./silver/images/bn:00033570n_13.jpg",
+      "./silver/images/bn:00033570n_14.jpg",
+      "./silver/images/bn:00033570n_2.jpg",
+      "./silver/images/bn:00033570n_3.jpg",
+      "./silver/images/bn:00033570n_4.jpg",
+      "./silver/images/bn:00033570n_5.jpg",
+      "./silver/images/bn:00033570n_6.jpg",
+      "./silver/images/bn:00033570n_7.jpg",
+      "./silver/images/bn:00033570n_8.jpg",
+      "./silver/images/bn:00033570n_9.JPG"
     ]
   }
 }

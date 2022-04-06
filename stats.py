@@ -18,8 +18,8 @@ from utils import clean_ext
 '''
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--input_file", "-i", default='./gold_synsets.json')
-parser.add_argument("--input_sample_file", "-is", default='./sample_synsets.json')
+parser.add_argument("--input_file", "-i", default='./synsets/gold_synsets.json')
+parser.add_argument("--input_sample_file", "-is", default='./samples/sample_synsets.json')
 args = parser.parse_args()
 
 noun_synsets, noun_gold_images, noun_images = (0,) * 3

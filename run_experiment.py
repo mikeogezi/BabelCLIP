@@ -11,8 +11,8 @@ import torch
 '''
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--output_file", "-o", default='./ranked_sample_synsets.json')
-parser.add_argument("--input_file", "-i", default='./sample_synsets.json')
+parser.add_argument("--output_file", "-o", default='./ranked/ranked_sample_synsets.json')
+parser.add_argument("--input_file", "-i", default='./samples/sample_synsets.json')
 parser.add_argument("--model", "-m", default='openai/clip-vit-base-patch32', choices=['openai/clip-vit-base-patch32', 'openai/clip-vit-base-patch16', 'openai/clip-vit-large-patch14'])
 parser.add_argument("--image_batch_size", "-bs", default=100, type=int)
 parser.add_argument("--device", "-d", default='cuda', type=str)
