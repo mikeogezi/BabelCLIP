@@ -11,14 +11,13 @@ import torch
 '''
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--output_file", "-o", default='./ranked/ranked_sample_synsets.json')
-parser.add_argument("--input_file", "-i", default='./samples/sample_synsets.json')
+parser.add_argument("--output_file", "-o", default='./ranked/ranked_silver_sample_synsets.json')
+parser.add_argument("--input_file", "-i", default='./samples/silver_sample_synsets.json')
 parser.add_argument("--model", "-m", default='openai/clip-vit-base-patch32', choices=['openai/clip-vit-base-patch32', 'openai/clip-vit-base-patch16', 'openai/clip-vit-large-patch14'])
 parser.add_argument("--image_batch_size", "-bs", default=100, type=int)
 parser.add_argument("--device", "-d", default='cuda', type=str)
 
 args = parser.parse_args()
-max_seq_len = 77
 
 _in = json.load(open(args.input_file, 'r'))
 out_dict = json.load(open(args.input_file, 'r'))
@@ -30,7 +29,12 @@ pred_map = {
     0: 'lemmas',
     1: 'gloss',
     2: 'example',
+    3: 'ex+gloss',
+    4: 'ex+lemmas'
 }
+
+def join_lemmas(lemmas):
+    return ', '.join(lemmas)
 
 with torch.no_grad():
     progress = 0
@@ -42,9 +46,11 @@ with torch.no_grad():
         print('Processing {: 4} images for {}/{}\r'.format(len(images), progress, len(_in)), end='')
 
         texts = [
-            ', '.join(v['lemmas'])[:],
-            v['gloss'][:] if ('gloss' in v and v['gloss']) else None,
-            v['example'][:] if ('example' in v and v['example']) in v else None,
+            join_lemmas(v['lemmas']),
+            v['gloss'] if ('gloss' in v and v['gloss']) else None,
+            v['example'] if ('example' in v and v['example']) in v else None,
+            v['example'] if ('example' in v and v['example']) in v else v['gloss'],
+            v['example'] if ('example' in v and v['example']) in v else join_lemmas(v['lemmas']),
         ]
         text_pops = [bool(text) for text in texts]
 

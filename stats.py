@@ -18,8 +18,8 @@ from utils import clean_ext
 '''
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--input_file", "-i", default='./synsets/gold_synsets.json')
-parser.add_argument("--input_sample_file", "-is", default='./samples/sample_synsets.json')
+parser.add_argument("--input_file", "-i", default='./synsets/silver_synsets.json')
+parser.add_argument("--input_sample_file", "-is", default='./samples/silver_sample_synsets.json')
 args = parser.parse_args()
 
 noun_synsets, noun_gold_images, noun_images = (0,) * 3
@@ -88,5 +88,8 @@ for s, g, i, n in [
     print('{} synsets: {}\t{} images (gold / all): {} / {}\t\t{} images per synset (gold / all): {:.2f} / {:.2f}'.format(n, s, n, g, i, n, q_g, q))
 
 print()
-for e, c in img_exts.items():
+for e, c in sorted(img_exts.items(), key=lambda x: x[1], reverse=True):
     print('{} files showed up {} time(s) in all images making up {:.3f}%'.format(e, c, c*100./images))
+
+print()
+print('jpgs, pngs, svgs and gifs made up {:.3f}% of the dataset'.format((img_exts['.jpg'] + img_exts['.png'] + img_exts['.svg'] + img_exts['.gif']) * 100. / images))
