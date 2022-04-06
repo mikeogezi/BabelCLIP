@@ -1,1 +1,6 @@
 gold_synsets.json filter=lfs diff=lfs merge=lfs -text
+silver_0_synsets.json filter=lfs diff=lfs merge=lfs -text
+silver_1_synsets.json filter=lfs diff=lfs merge=lfs -text
+silver_2_synsets.json filter=lfs diff=lfs merge=lfs -text
+silver_3_synsets.json filter=lfs diff=lfs merge=lfs -text
+silver_synsets.json filter=lfs diff=lfs merge=lfs -text

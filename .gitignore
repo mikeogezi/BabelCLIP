@@ -1,6 +1,7 @@
 *.class
 babelpic-gold/
-silver_*
+silver_*/
+silver/
 .vscode/
 .ipynb_checkpoints/
 __pycache__
