@@ -1,4 +1,4 @@
-# CMPUT 600 W22 Project
+# BabelCLIP: CMPUT 600 W22 Project
 
 ## Prerequisites
 - Install Java (OpenJDK 11.0.14.1; I make extensive use of lambdas and streams)

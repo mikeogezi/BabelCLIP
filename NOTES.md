@@ -24,9 +24,7 @@
 - Truncated text at the maximum sequence lenght causing us to lose some information
 - Reshaped image
 - TODO: Try cropping and other techniques
-
 - BERT-based tokenizer
 - Truncated after 77 tokens
-
 - 3463/3570 = 97.00% coverage of 100-size sample set
 
