@@ -8,3 +8,4 @@ __pycache__
 *log
 pulled_images
 *nohup.out
+evaluate.*
