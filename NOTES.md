@@ -28,5 +28,5 @@
 - BERT-based tokenizer
 - Truncated after 77 tokens
 
-- 3463/3570 = 97.00280112% coverage of 100-size sample set
+- 3463/3570 = 97.00% coverage of 100-size sample set
 
