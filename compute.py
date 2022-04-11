@@ -35,5 +35,6 @@ print('BabelPic:', babelpic)
 print('BabelCLIP:', babelclip)
 print('Nothing:', nothing)
 
-print('BC Preference: {:2}%'.format((babelclip+both+neither)*100./(both+neither+babelclip+babelpic)))
-print('BP Preference: {:2}%'.format((babelpic+both+neither)*100/(both+neither+babelclip+babelpic)))
+print('BabelCLIP Preference: {:.2f}%'.format((babelclip + both + neither) * 100. / (both + neither + babelclip + babelpic)))
+print('BabelPIC Preference: {:.2f}%'.format((babelpic + both + neither) * 100. / (both + neither + babelclip + babelpic)))
+print('Both/Neither Rate: {:.2f}%'.format((both + neither) * 100. / (both + neither + babelclip + babelpic)))
