@@ -1,5 +1,7 @@
 # BabelCLIP: CMPUT 600 W22 Project
 
+To get a better understanding of the results of this work, you can read my [report](./Report.pdf).
+
 ## Prerequisites
 - Install Java (OpenJDK 11.0.14.1; I make extensive use of lambdas and streams)
 - Install Python 3.8.12
