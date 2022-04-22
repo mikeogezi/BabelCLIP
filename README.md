@@ -1,6 +1,6 @@
 # BabelCLIP: CMPUT 600 W22 Project
 
-To get a better understanding of the results of this work, you can read my [report](./Report.pdf).
+To get a better understanding of the results of this work, you can read my [report](./Report.pdf). BabelCLIP outperforms the previous SOTA by 6.67%.
 
 ## Prerequisites
 - Install Java (OpenJDK 11.0.14.1; I make extensive use of lambdas and streams)
